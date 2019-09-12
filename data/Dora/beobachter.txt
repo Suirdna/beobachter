@@ -1,0 +1,6 @@
+b"Record: [ 26/07/19  14:59:05 ] - Action: Upload - User: <@604292666687094785> - Content: [<Attachment id=604296633844236288 filename='structure_logo.png' url='https://cdn.discordapp.com/attachments/604296588340363271/604296633844236288/structure_logo.png'>]"
+b'Record: [ 26/07/19  14:59:05 ] - Action: Writte - User: <@604292666687094785> - Content: *<@599615116044009477> tai specifinis discordo botas, kuris atlieka \xc5\xbeaid\xc4\x97j\xc5\xb3 slapyvard\xc5\xbei\xc5\xb3 registravimo, duomen\xc5\xb3 \xc4\xafra\xc5\xa1in\xc4\x97jimo, statistikos saugojimo, analyzavimo bei abdorojimo funkcijas.* *Prie\xc5\xa1 naudojant komand\xc4\x85, b\xc5\xabtinai patikrinkite ar discordo botas @Beobachter n\xc4\x97ra offline.* **Pastaba!** *\xc5\xbdinut\xc4\x97s i\xc5\xa1sitrina automati\xc5\xa1kai.*'
+b'Record: [ 26/07/19  14:59:05 ] - Action: Writte - User: <@604292666687094785> - Content: '
+b'Record: [ 26/07/19  18:54:19 ] - Action: Writte - User: <@604292666687094785> - Content: '
+b'Record: [ 10/08/19  09:09:40 ] - Action: Writte - User: <@!527067554070396940> - Content: .connect'
+b'Record: [ 10/08/19  09:09:40 ] - Action: Writte - User: <@604292666687094785> - Content: **Dora** *\xc5\xbdaid\xc4\x97jas <@!527067554070396940> prisijung\xc4\x97 prie Beobachter-Global pokalbio kanalo.*'

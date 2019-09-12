@@ -1,0 +1,24 @@
+b"Record: [ 19/07/19  21:39:35 ] - Action: Upload - User: <@599615116044009477> - Content: [<Attachment id=601860717209059328 filename='images_logo.png' url='https://cdn.discordapp.com/attachments/601860654978170899/601860717209059328/images_logo.png'>]"
+b'Record: [ 19/07/19  21:39:36 ] - Action: Writte - User: <@599615116044009477> - Content: *Prie\xc5\xa1 publikuojant event\xc4\x85, b\xc5\xabtinai patiktinkite ar discordo botas <@599615116044009477> n\xc4\x97ra offline.*\n*Nor\xc4\x97dami publikuoti Chamber of Xeric Mass event\xc4\x85, \xc4\xafvekite komand\xc4\x85* **.post** argument\xc4\x85 **mass** ir **papildom\xc4\x85 informacij\xc4\x85**. *Pavyzdys apa\xc4\x8dioje \xe2\x98\x9f.*'
+b"Record: [ 19/07/19  21:39:37 ] - Action: Upload - User: <@599615116044009477> - Content: [<Attachment id=601860722850267152 filename='images_ereignisse_example.png' url='https://cdn.discordapp.com/attachments/601860654978170899/601860722850267152/images_ereignisse_example.png'>]"
+b"Record: [ 19/07/19  21:55:46 ] - Action: Upload - User: <@599615116044009477> - Content: [<Attachment id=601864789097971722 filename='images_logo.png' url='https://cdn.discordapp.com/attachments/601860654978170899/601864789097971722/images_logo.png'>]"
+b'Record: [ 19/07/19  21:55:46 ] - Action: Writte - User: <@599615116044009477> - Content: *Prie\xc5\xa1 publikuojant event\xc4\x85, b\xc5\xabtinai patiktinkite ar discordo botas <@599615116044009477> n\xc4\x97ra offline.*\n*Nor\xc4\x97dami publikuoti Chamber of Xeric Mass event\xc4\x85, \xc4\xafvekite komand\xc4\x85* **.post** argument\xc4\x85 **mass** ir **papildom\xc4\x85 informacij\xc4\x85**. *Pavyzdys apa\xc4\x8dioje \xe2\x98\x9f.*'
+b"Record: [ 19/07/19  21:55:47 ] - Action: Upload - User: <@599615116044009477> - Content: [<Attachment id=601864793254527013 filename='images_ereignisse_example.png' url='https://cdn.discordapp.com/attachments/601860654978170899/601864793254527013/images_ereignisse_example.png'>]"
+b"Record: [ 20/07/19  17:23:51 ] - Action: Upload - User: <@599615116044009477> - Content: [<Attachment id=602158749595205632 filename='structure_logo.png' url='https://cdn.discordapp.com/attachments/602158697023668224/602158749595205632/structure_logo.png'>]"
+b'Record: [ 20/07/19  17:23:52 ] - Action: Writte - User: <@599615116044009477> - Content: *Prie\xc5\xa1 publikuojant event\xc4\x85, b\xc5\xabtinai patikrinkite ar discordo botas <@599615116044009477> n\xc4\x97ra offline.*\n*Nor\xc4\x97dami publikuoti Chambers of Xeric mass event\xc4\x85, \xc4\xafveskite komand\xc4\x85* **.post** argument\xc4\x85 **mass** ir **papildom\xc4\x85 informacij\xc4\x85**. *Pavyzdys apa\xc4\x8dioje.* **\xe2\xa4\x8b**'
+b"Record: [ 20/07/19  17:23:53 ] - Action: Upload - User: <@599615116044009477> - Content: [<Attachment id=602158757409193995 filename='structure_ereignisse_example.png' url='https://cdn.discordapp.com/attachments/602158697023668224/602158757409193995/structure_ereignisse_example.png'>]"
+b'Record: [ 26/07/19  20:37:45 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 26/07/19  20:39:51 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 26/07/19  20:55:36 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 26/07/19  20:58:48 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 26/07/19  21:07:48 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 26/07/19  21:32:17 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 29/07/19  20:02:48 ] - Action: Writte - User: <@301348455652130816> - Content: <#306123072770015233>'
+b'Record: [ 01/08/19  09:28:01 ] - Action: Writte - User: <@182047663468969984> - Content: .add cox 02.08 19:00 <@182047663468969984>'
+b'Record: [ 01/08/19  09:28:01 ] - Action: Writte - User: <@599615116044009477> - Content: **OSRS Lietuva** *J\xc5\xabs neturite privilegijos naudotis \xc5\xa1ia komanda.*'
+b'Record: [ 01/08/19  15:45:11 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 02/08/19  15:30:23 ] - Action: Writte - User: <@182047663468969984> - Content: .add cox 04.08 19:00 Eventas bus streaminimas per https://www.twitch.tv/d1sc <@&601860650011983872>'
+b'Record: [ 02/08/19  15:30:23 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 14/08/19  15:14:33 ] - Action: Writte - User: <@182047663468969984> - Content: .add cox 17.08 19:00 Eventas bus streaminimas per https://www.twitch.tv/d1sc'
+b'Record: [ 14/08/19  15:14:33 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 14/08/19  22:50:55 ] - Action: Writte - User: <@!566292177161027586> - Content: <@&601860650011983872>'

@@ -1,0 +1,3 @@
+[LOGO]
+*@Beobachter#1247 tai specifinis discordo botas, kuris atlieka žaidėjų slapyvardžių registravimo, duomenų įrašinėjimo, statistikos saugojimo, analyzavimo bei abdorojimo funkcijas.* *Prieš naudojant komandą, būtinai patikrinkite ar discordo botas @Beobachter nėra offline.* **Pastaba!** *Žinutės išsitrina automatiškai.*
+

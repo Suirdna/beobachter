@@ -1,0 +1,4 @@
+b'Record: [ 20/07/19  09:22:56 ] - Action: Writte - User: <@!566292177161027586> - Content: .stats'
+b'Record: [ 20/07/19  09:22:57 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 20/07/19  09:23:09 ] - Action: Writte - User: <@!566292177161027586> - Content: .gstats'
+b'Record: [ 20/07/19  09:23:09 ] - Action: Writte - User: <@599615116044009477> - Content: '

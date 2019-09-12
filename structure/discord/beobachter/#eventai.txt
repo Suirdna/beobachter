@@ -1,0 +1,3 @@
+[LOGO]
+*Prieš publikuojant eventą, būtinai patikrinkite ar discordo botas @Beobachter nėra offline.*
+*Norėdami publikuoti Chambers of Xeric mass eventą, įveskite komandą* **.post** argumentą **mass** ir **papildomą informaciją**. *Pavyzdys apačioje.* **⤋**

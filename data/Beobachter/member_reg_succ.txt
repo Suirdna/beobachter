@@ -1,0 +1,1 @@
+b'Record: [ 17/08/19  13:21:08 ] - Server: Beobachter - Action: Registration Confirmed - User: \xd0\xb4\xd0\xb5\xd0\xb4\xd0\xbc\xd0\xbe\xd1\x80\xd0\xbe\xd0\xb7\xd1\x8c - Uerd ID: 612243842401566730 - Nickname: solder'

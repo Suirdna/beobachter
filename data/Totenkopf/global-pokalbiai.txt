@@ -1,0 +1,5 @@
+b'Record: [ 20/07/19  14:27:59 ] - Action: Writte - User: <@599615116044009477> - Content: `TestCrossServer` **FaustRecht** *Sveikas, matai \xc5\xbeinut\xc4\x99?*'
+b'Record: [ 20/07/19  14:28:15 ] - Action: Writte - User: <@599615116044009477> - Content: `OSRS Lietuva` **haiiG** *Isplak mane as nedoras*'
+b'Record: [ 20/07/19  14:29:03 ] - Action: Writte - User: <@599615116044009477> - Content: `TestCrossServer` **FaustRecht** *Image Test* https://cdn.discordapp.com/attachments/602114091082973185/602114747537686555/ereignisse_example.png'
+b'Record: [ 20/07/19  14:29:46 ] - Action: Writte - User: <@599615116044009477> - Content: `TestCrossServer` **FaustRecht** *.disconnect*'
+b'Record: [ 20/07/19  14:29:54 ] - Action: Writte - User: <@599615116044009477> - Content: `OSRS Lietuva` **haiiG** *.disconnect*'

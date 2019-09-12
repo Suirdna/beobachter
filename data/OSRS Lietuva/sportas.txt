@@ -1,0 +1,9 @@
+b"Record: [ 21/07/19  21:35:47 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=602584529752031252 filename='67498239_742485252876716_6353927600695410688_n.png' url='https://cdn.discordapp.com/attachments/594584094973755417/602584529752031252/67498239_742485252876716_6353927600695410688_n.png'>]"
+b'Record: [ 23/07/19  16:47:48 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/8PMp21w.gifv'
+b'Record: [ 23/07/19  23:22:34 ] - Action: Writte - User: <@114774616525766660> - Content: https://twitter.com/NASA/status/1152227883705937920'
+b'Record: [ 23/07/19  23:22:49 ] - Action: Writte - User: <@114774616525766660> - Content: koju dienai pastumdyt raketa<:pepeOK:514912993121796121>'
+b"Record: [ 30/07/19  17:49:35 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=605789100988956712 filename='67662568_3271225306312484_5360693053168287744_n.png' url='https://cdn.discordapp.com/attachments/594584094973755417/605789100988956712/67662568_3271225306312484_5360693053168287744_n.png'>]"
+b'Record: [ 05/08/19  12:43:03 ] - Action: Writte - User: <@!418167767578181634> - Content: https://streamable.com/vbmpj'
+b'Record: [ 15/08/19  12:30:15 ] - Action: Writte - User: <@593549007029010462> - Content: Sveiki'
+b'Record: [ 15/08/19  20:51:37 ] - Action: Writte - User: <@!114774616525766660> - Content: sveikas'
+b'Record: [ 18/08/19  21:36:38 ] - Action: Writte - User: <@!418167767578181634> - Content: https://streamable.com/5iaad'

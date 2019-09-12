@@ -1,0 +1,2 @@
+b'Record: [ 30/07/19  15:17:48 ] - Action: Writte - User: <@237200764437659648> - Content: https://gyazo.com/a993a21ecc1eae1a9c428d16f3321491'
+b'Record: [ 05/08/19  21:00:31 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/0bf842a74f79b218d1fc6500366a05b5'

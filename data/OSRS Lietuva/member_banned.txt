@@ -1,0 +1,6 @@
+b'Record: [ 03/08/19  00:30:51 ] - Action: Banned - User: OsHelp - Uerd ID: 267964942055899137 - Reason: U\xc5\xbedraustas nikas.'
+b'Record: [ 03/08/19  00:30:59 ] - Action: Banned - User: OsHelp - Uerd ID: 267650373777489921 - Reason: U\xc5\xbedraustas nikas.'
+b'Record: [ 19/08/19  16:45:11 ] - Action: Banned - User: Deivis wii - Uerd ID: 154921983430098944 - Reason: Ir_tau_taip_pat.'
+b'Record: [ 19/08/19  16:46:12 ] - Action: Banned - User: Deivis wii - Uerd ID: 154921983430098944 - Reason: Ir_tau_taip_pat.'
+b'Record: [ 19/08/19  16:46:34 ] - Action: Banned - User: Deivis wii - Uerd ID: 154921983430098944 - Reason: Ir_tau_taip_pat.'
+b'Record: [ 19/08/19  16:46:48 ] - Action: Banned - User: Myveris - Uerd ID: 221253183400443904 - Reason: Lietuva_dc_administratorius.'

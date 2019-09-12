@@ -1,0 +1,2 @@
+b'Record: [ 10/08/19  19:39:22 ] - Action: Writte - User: <@599615116044009477> - Content: !rw MurphysLawv'
+b'Record: [ 10/08/19  19:39:23 ] - Action: Writte - User: <@599615116044009477> - Content: '

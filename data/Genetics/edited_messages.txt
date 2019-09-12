@@ -1,0 +1,1 @@
+b'Record: [ 17/08/19  13:29:00 ] - Action: Edit - Channel: <#612246447076671508> - User: <@599615116044009477> - Before:  - After: '

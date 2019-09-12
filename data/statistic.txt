@@ -1,0 +1,261 @@
+Record: [ 19/07/19  20:34:49 ] - Server: Berta - Action: Statistic Added -  Channel: 601822269433577472 - User: random - Sum: 501363921.5
+Record: [ 19/07/19  20:34:49 ] - Server: Berta - Action: Statistic Added -  Channel: 601822269433577472 - User: FaustRecht - Sum: 501363949.5
+Record: [ 20/07/19  21:59:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 762778931 - BeforeSum: 745268505
+Record: [ 20/07/19  21:59:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 654866074 - BeforeSum: 637355648
+Record: [ 20/07/19  21:59:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 117461848 - BeforeSum: 99951422
+Record: [ 20/07/19  22:14:50 ] - Server: Totenkopf - Action: Statistic Added -  Channel: 602155557176082435 - User: Thxy0ukidxd - Sum: 26265630.5
+Record: [ 20/07/19  22:14:50 ] - Server: Totenkopf - Action: Statistic Added -  Channel: 602155557176082435 - User: What - Sum: 26265664.5
+Record: [ 20/07/19  22:17:07 ] - Server: Totenkopf - Action: Statistic Added -  Channel: 602155557176082435 - User: Thxy0ukidxd - Sum: 26265630.5
+Record: [ 20/07/19  22:17:07 ] - Server: Totenkopf - Action: Statistic Added -  Channel: 602155557176082435 - User: What - Sum: 26265663.5
+Record: [ 20/07/19  22:38:38 ] - Server: Totenkopf - Action: Statistic Added -  Channel: 602155557176082435 - User: Thxy0ukidxd - Sum: 26265630.5
+Record: [ 20/07/19  22:38:38 ] - Server: Totenkopf - Action: Statistic Added -  Channel: 602155557176082435 - User: What - Sum: 26265637.5
+Record: [ 20/07/19  23:14:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Gvi das - Sum: 795489992 - BeforeSum: 772661429
+Record: [ 20/07/19  23:14:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Reaperkitten - Sum: 942506655 - BeforeSum: 919678092
+Record: [ 20/07/19  23:14:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Triksiukas - Sum: 627087151 - BeforeSum: 604258588
+Record: [ 21/07/19  17:01:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: ReaperKitten - Sum: 952936421 - BeforeSum: 942506655
+Record: [ 21/07/19  17:01:36 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: Karolis/Hantelis - Sum: 10429766.5
+Record: [ 21/07/19  21:57:13 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Zudilotas - Sum: 102498298 - BeforeSum: 87974169
+Record: [ 21/07/19  21:57:13 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Ne Ne Taip - Sum: 77323102 - BeforeSum: 62798973
+Record: [ 21/07/19  22:45:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Triksiukas - Sum: 669084080 - BeforeSum: 627087151
+Record: [ 21/07/19  22:45:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: ReaperKitten - Sum: 994933350 - BeforeSum: 952936421
+Record: [ 21/07/19  22:45:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Karolis/Hantelis - Sum: 52426727 - BeforeSum: 10429798
+Record: [ 21/07/19  22:45:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 159458777 - BeforeSum: 117461848
+Record: [ 22/07/19  17:08:23 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: OsHelp - Sum: 17118559.5
+Record: [ 22/07/19  17:08:23 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: GeriBatukai - Sum: 17118562.5
+Record: [ 22/07/19  17:08:23 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 176577388 - BeforeSum: 159458777
+Record: [ 22/07/19  17:08:23 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 193695999 - BeforeSum: 176577388
+Record: [ 22/07/19  17:35:38 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 21529092 - BeforeSum: 17118563
+Record: [ 22/07/19  17:35:38 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: GeriBatukai - Sum: 21529141 - BeforeSum: 17118612
+Record: [ 22/07/19  17:35:38 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 198106528 - BeforeSum: 193695999
+Record: [ 22/07/19  17:35:38 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 202517057 - BeforeSum: 198106528
+Record: [ 22/07/19  17:58:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 764911886 - BeforeSum: 762778931
+Record: [ 22/07/19  17:58:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 204650012 - BeforeSum: 202517057
+Record: [ 22/07/19  17:58:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 206782967 - BeforeSum: 204650012
+Record: [ 22/07/19  20:43:02 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 766386384 - BeforeSum: 764911886
+Record: [ 22/07/19  20:43:02 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 656340572 - BeforeSum: 654866074
+Record: [ 22/07/19  20:43:02 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Perffi - Sum: 211533487 - BeforeSum: 210058989
+Record: [ 23/07/19  07:02:34 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 27409799 - BeforeSum: 21529092
+Record: [ 23/07/19  07:02:34 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: GeriBatukai - Sum: 27409848 - BeforeSum: 21529141
+Record: [ 23/07/19  07:02:34 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: davai tob - Sum: 5880707.333333333
+Record: [ 23/07/19  22:02:35 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: ReaperKitten - Sum: 1012180452 - BeforeSum: 994933350
+Record: [ 23/07/19  22:02:35 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Suvalkietis - Sum: 327009896 - BeforeSum: 309762794
+Record: [ 23/07/19  22:02:35 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Atsimeni - Sum: 51845524 - BeforeSum: 34598422
+Record: [ 23/07/19  22:02:35 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: CofiS - Sum: 17247102.75
+Record: [ 23/07/19  23:18:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 669740048 - BeforeSum: 656340572
+Record: [ 23/07/19  23:18:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 779785860 - BeforeSum: 766386384
+Record: [ 23/07/19  23:18:56 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 13399476.25
+Record: [ 23/07/19  23:18:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Zudilotas - Sum: 115897805 - BeforeSum: 102498298
+Record: [ 24/07/19  14:35:48 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: ReaperKitten - Sum: 1035176592 - BeforeSum: 1012180452
+Record: [ 24/07/19  14:35:48 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Suvalkietis - Sum: 350006036 - BeforeSum: 327009896
+Record: [ 24/07/19  14:35:48 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: Kuku 17 - Sum: 22996140.333333332
+Record: [ 24/07/19  15:05:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: ReaperKitten - Sum: 1312228084 - BeforeSum: 1035176592
+Record: [ 24/07/19  15:05:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Suvalkietis - Sum: 627057528 - BeforeSum: 350006036
+Record: [ 24/07/19  15:05:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: VENERIS - Sum: 287646448 - BeforeSum: 10594956
+Record: [ 24/07/19  15:05:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: CofiS - Sum: 294298633 - BeforeSum: 17247141
+Record: [ 26/07/19  21:33:12 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 798029907 - BeforeSum: 779785860
+Record: [ 26/07/19  21:33:12 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 31643554 - BeforeSum: 13399507
+Record: [ 26/07/19  21:33:12 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 225027014 - BeforeSum: 206782967
+Record: [ 27/07/19  22:44:59 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 84757873 - BeforeSum: 68449833
+Record: [ 27/07/19  22:44:59 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 241335054 - BeforeSum: 225027014
+Record: [ 27/07/19  22:46:04 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 799543375 - BeforeSum: 798029907
+Record: [ 27/07/19  22:46:04 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 671253516 - BeforeSum: 669740048
+Record: [ 27/07/19  22:46:04 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 33157022 - BeforeSum: 31643554
+Record: [ 29/07/19  20:16:54 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: ReaperKitten - Sum: 1366478835 - BeforeSum: 1312228084
+Record: [ 29/07/19  20:16:54 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Atsimeni - Sum: 106096275 - BeforeSum: 51845524
+Record: [ 29/07/19  20:16:54 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: CofiS - Sum: 348549384 - BeforeSum: 294298633
+Record: [ 30/07/19  15:02:52 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: ReaperKitten - Sum: 1638208046 - BeforeSum: 1366478835
+Record: [ 30/07/19  15:02:52 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Suvalkietis - Sum: 898786739 - BeforeSum: 627057528
+Record: [ 30/07/19  15:02:52 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 513064265 - BeforeSum: 241335054
+Record: [ 30/07/19  15:02:52 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: weenect/Arturas - Sum: 271729211.75
+Record: [ 30/07/19  15:04:40 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 105217620 - BeforeSum: 84757873
+Record: [ 30/07/19  15:04:40 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 533524012 - BeforeSum: 513064265
+Record: [ 30/07/19  17:27:29 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: ReaperKitten - Sum: 2000513668 - BeforeSum: 1638208046
+Record: [ 30/07/19  17:27:29 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Suvalkietis - Sum: 1261092361 - BeforeSum: 898786739
+Record: [ 30/07/19  17:27:29 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 895829634 - BeforeSum: 533524012
+Record: [ 30/07/19  20:46:59 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: 3xtremeBoy - Sum: 68430379 - BeforeSum: 52546031
+Record: [ 30/07/19  20:46:59 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 911713982 - BeforeSum: 895829634
+Record: [ 30/07/19  22:42:09 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: 3xtremeBoy - Sum: 121555529 - BeforeSum: 68430379
+Record: [ 30/07/19  22:42:09 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 964839132 - BeforeSum: 911713982
+Record: [ 31/07/19  16:06:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: B4WBAG - Sum: 70699862 - BeforeSum: 56208775
+Record: [ 31/07/19  16:06:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 979330219 - BeforeSum: 964839132
+Record: [ 31/07/19  16:06:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 993821306 - BeforeSum: 979330219
+Record: [ 31/07/19  16:06:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1008312393 - BeforeSum: 993821306
+Record: [ 31/07/19  19:44:10 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 125559586 - BeforeSum: 105217620
+Record: [ 31/07/19  19:44:10 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1028654359 - BeforeSum: 1008312393
+Record: [ 01/08/19  07:44:53 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 820969991 - BeforeSum: 799543375
+Record: [ 01/08/19  07:44:53 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1050080975 - BeforeSum: 1028654359
+Record: [ 01/08/19  07:44:53 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1071507591 - BeforeSum: 1050080975
+Record: [ 01/08/19  14:29:35 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 840291433 - BeforeSum: 820969991
+Record: [ 01/08/19  14:29:35 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1090829033 - BeforeSum: 1071507591
+Record: [ 01/08/19  14:29:35 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1110150475 - BeforeSum: 1090829033
+Record: [ 01/08/19  18:55:02 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 842220863 - BeforeSum: 840291433
+Record: [ 01/08/19  18:55:02 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Perffi - Sum: 213462917 - BeforeSum: 211533487
+Record: [ 01/08/19  18:55:02 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 29339229 - BeforeSum: 27409799
+Record: [ 01/08/19  21:19:57 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 844050962 - BeforeSum: 842220863
+Record: [ 01/08/19  21:19:57 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 31169328 - BeforeSum: 29339229
+Record: [ 01/08/19  21:19:57 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Perffi - Sum: 215293016 - BeforeSum: 213462917
+Record: [ 02/08/19  14:25:14 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 86804829 - BeforeSum: 31169328
+Record: [ 02/08/19  14:25:14 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 142440330 - BeforeSum: 86804829
+Record: [ 02/08/19  14:25:14 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 198075831 - BeforeSum: 142440330
+Record: [ 02/08/19  14:25:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: sal the sal - Sum: 17681993 - BeforeSum: 8983501
+Record: [ 02/08/19  14:25:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1118848967 - BeforeSum: 1110150475
+Record: [ 02/08/19  14:31:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 86804857 - BeforeSum: 31169356
+Record: [ 02/08/19  14:31:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1174484468 - BeforeSum: 1118848967
+Record: [ 02/08/19  14:31:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1230119969 - BeforeSum: 1174484468
+Record: [ 02/08/19  17:54:04 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 141882074 - BeforeSum: 125559586
+Record: [ 02/08/19  17:54:04 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1246442457 - BeforeSum: 1230119969
+Record: [ 02/08/19  18:27:04 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 162180672 - BeforeSum: 141882074
+Record: [ 02/08/19  18:27:04 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1266741055 - BeforeSum: 1246442457
+Record: [ 02/08/19  22:34:49 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1009005785 - BeforeSum: 671253516
+Record: [ 02/08/19  22:34:49 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 370909291 - BeforeSum: 33157022
+Record: [ 02/08/19  22:34:49 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1604493324 - BeforeSum: 1266741055
+Record: [ 03/08/19  00:07:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1029900102 - BeforeSum: 1009005785
+Record: [ 03/08/19  00:07:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 391803608 - BeforeSum: 370909291
+Record: [ 03/08/19  00:07:32 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1625387641 - BeforeSum: 1604493324
+Record: [ 03/08/19  12:21:20 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: aka Chaser - Sum: 6261150.666666667
+Record: [ 03/08/19  14:43:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 121178005 - BeforeSum: 86804857
+Record: [ 03/08/19  14:43:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1659760789 - BeforeSum: 1625387641
+Record: [ 03/08/19  14:43:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1694133937 - BeforeSum: 1659760789
+Record: [ 03/08/19  17:26:22 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 164855501 - BeforeSum: 162180672
+Record: [ 03/08/19  17:26:22 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1696808766 - BeforeSum: 1694133937
+Record: [ 03/08/19  22:34:17 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 375187957 - BeforeSum: 121178005
+Record: [ 03/08/19  22:34:17 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1283910054 - BeforeSum: 1029900102
+Record: [ 03/08/19  22:34:17 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1098060914 - BeforeSum: 844050962
+Record: [ 03/08/19  22:34:17 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: Magnis B6 - Sum: 254009952.0
+Record: [ 04/08/19  09:46:03 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 29443385.0
+Record: [ 04/08/19  09:46:03 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 421247032 - BeforeSum: 391803608
+Record: [ 04/08/19  09:46:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 32265031 - BeforeSum: 29443424
+Record: [ 04/08/19  09:46:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 424068639 - BeforeSum: 421247032
+Record: [ 04/08/19  16:09:30 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1114411472 - BeforeSum: 1098060914
+Record: [ 04/08/19  16:09:30 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1713159324 - BeforeSum: 1696808766
+Record: [ 04/08/19  16:09:30 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1729509882 - BeforeSum: 1713159324
+Record: [ 04/08/19  16:09:30 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1745860440 - BeforeSum: 1729509882
+Record: [ 04/08/19  22:24:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Zudilotas - Sum: 122226628 - BeforeSum: 115897805
+Record: [ 04/08/19  22:24:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Ne Ne Taip - Sum: 83651925 - BeforeSum: 77323102
+Record: [ 04/08/19  22:24:46 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 1752189263 - BeforeSum: 1745860440
+Record: [ 05/08/19  17:38:23 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 69863439 - BeforeSum: 32265031
+Record: [ 05/08/19  17:38:23 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1152009880 - BeforeSum: 1114411472
+Record: [ 05/08/19  17:38:23 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 461667047 - BeforeSum: 424068639
+Record: [ 05/08/19  18:06:44 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 181311111 - BeforeSum: 164855501
+Record: [ 05/08/19  18:06:44 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 16455610 - BeforeSum: 0
+Record: [ 05/08/19  18:19:01 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 184039419 - BeforeSum: 181311111
+Record: [ 05/08/19  18:19:01 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 19183918 - BeforeSum: 16455610
+Record: [ 05/08/19  19:22:40 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 89573813 - BeforeSum: 69863439
+Record: [ 05/08/19  19:22:40 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1171720254 - BeforeSum: 1152009880
+Record: [ 05/08/19  19:22:40 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 481377421 - BeforeSum: 461667047
+Record: [ 05/08/19  20:08:59 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1176970440 - BeforeSum: 1171720254
+Record: [ 05/08/19  20:08:59 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 94823999 - BeforeSum: 89573813
+Record: [ 05/08/19  20:08:59 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 486627607 - BeforeSum: 481377421
+Record: [ 06/08/19  14:15:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 124777359 - BeforeSum: 94823999
+Record: [ 06/08/19  14:15:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 516580967 - BeforeSum: 486627607
+Record: [ 06/08/19  16:11:33 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: aka Chaser - Sum: 15818868 - BeforeSum: 6261189
+Record: [ 06/08/19  16:11:33 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 28741597 - BeforeSum: 19183918
+Record: [ 06/08/19  19:41:20 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: sal the sal - Sum: 53830537 - BeforeSum: 17681993
+Record: [ 06/08/19  19:41:20 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 64890141 - BeforeSum: 28741597
+Record: [ 07/08/19  00:06:42 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: sal the sal - Sum: 138341972 - BeforeSum: 53830537
+Record: [ 07/08/19  00:06:42 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 149401576 - BeforeSum: 64890141
+Record: [ 07/08/19  09:11:31 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: Dethrosh - Sum: 2057879.3333333333
+Record: [ 07/08/19  09:11:31 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Nebelauk - Sum: 86181419 - BeforeSum: 84123514
+Record: [ 07/08/19  09:11:31 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: OsHelpDeimantas - Sum: 2057905.3333333333
+Record: [ 07/08/19  09:12:33 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Dethrosh - Sum: 21774154 - BeforeSum: 2057905
+Record: [ 07/08/19  09:12:33 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Nebelauk - Sum: 105897668 - BeforeSum: 86181419
+Record: [ 07/08/19  09:12:33 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelpDeimantas - Sum: 21774178 - BeforeSum: 2057929
+Record: [ 07/08/19  09:12:43 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Dethrosh - Sum: 41490396 - BeforeSum: 21774154
+Record: [ 07/08/19  09:12:43 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Nebelauk - Sum: 125613910 - BeforeSum: 105897668
+Record: [ 07/08/19  09:12:43 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelpDeimantas - Sum: 41490420 - BeforeSum: 21774178
+Record: [ 07/08/19  15:50:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1205332590 - BeforeSum: 1176970440
+Record: [ 07/08/19  15:50:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 177763726 - BeforeSum: 149401576
+Record: [ 07/08/19  15:50:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 206125876 - BeforeSum: 177763726
+Record: [ 07/08/19  15:50:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 234488026 - BeforeSum: 206125876
+Record: [ 08/08/19  16:25:07 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1226264539 - BeforeSum: 1205332590
+Record: [ 08/08/19  16:25:07 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1304842003 - BeforeSum: 1283910054
+Record: [ 08/08/19  16:25:07 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 204971368 - BeforeSum: 184039419
+Record: [ 08/08/19  22:59:48 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: aka Chaser - Sum: 20443739 - BeforeSum: 15818868
+Record: [ 08/08/19  22:59:48 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: ltu general - Sum: 4624871.0
+Record: [ 09/08/19  19:53:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1231473078 - BeforeSum: 1226264539
+Record: [ 09/08/19  19:53:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 521789506 - BeforeSum: 516580967
+Record: [ 09/08/19  19:53:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 129985898 - BeforeSum: 124777359
+Record: [ 10/08/19  08:56:34 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1323348109 - BeforeSum: 1304842003
+Record: [ 10/08/19  08:56:34 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1249979184 - BeforeSum: 1231473078
+Record: [ 10/08/19  08:56:34 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: shokki - Sum: 18506106.333333332
+Record: [ 10/08/19  14:14:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1324677991 - BeforeSum: 1323348109
+Record: [ 10/08/19  14:14:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 523119388 - BeforeSum: 521789506
+Record: [ 10/08/19  14:14:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 235817908 - BeforeSum: 234488026
+Record: [ 10/08/19  14:14:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 237147790 - BeforeSum: 235817908
+Record: [ 10/08/19  14:15:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1326007871 - BeforeSum: 1324677991
+Record: [ 10/08/19  14:15:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 524449268 - BeforeSum: 523119388
+Record: [ 10/08/19  14:15:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 131315778 - BeforeSum: 129985898
+Record: [ 10/08/19  14:15:56 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 238477670 - BeforeSum: 237147790
+Record: [ 10/08/19  14:28:22 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1341798483 - BeforeSum: 1326007871
+Record: [ 10/08/19  14:28:22 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 540239880 - BeforeSum: 524449268
+Record: [ 10/08/19  14:28:22 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 147106390 - BeforeSum: 131315778
+Record: [ 10/08/19  14:28:22 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 254268282 - BeforeSum: 238477670
+Record: [ 10/08/19  15:47:39 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 150990633 - BeforeSum: 147106390
+Record: [ 10/08/19  15:47:39 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1345682726 - BeforeSum: 1341798483
+Record: [ 10/08/19  15:47:39 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1253863427 - BeforeSum: 1249979184
+Record: [ 10/08/19  15:47:39 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 544124123 - BeforeSum: 540239880
+Record: [ 10/08/19  20:39:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1359562309 - BeforeSum: 1345682726
+Record: [ 10/08/19  20:39:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1267743010 - BeforeSum: 1253863427
+Record: [ 10/08/19  20:39:00 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 218850951 - BeforeSum: 204971368
+Record: [ 10/08/19  22:41:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: 7 SINS 1 MAN - Sum: 173547380 - BeforeSum: 138341972
+Record: [ 10/08/19  22:41:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 289473690 - BeforeSum: 254268282
+Record: [ 10/08/19  23:07:03 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1290525074 - BeforeSum: 1267743010
+Record: [ 10/08/19  23:07:03 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1382344373 - BeforeSum: 1359562309
+Record: [ 10/08/19  23:07:03 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 241633015 - BeforeSum: 218850951
+Record: [ 10/08/19  23:07:03 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 173772697 - BeforeSum: 150990633
+Record: [ 10/08/19  23:07:03 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 566906187 - BeforeSum: 544124123
+Record: [ 11/08/19  00:52:08 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1301628742 - BeforeSum: 1290525074
+Record: [ 11/08/19  00:52:08 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1393448041 - BeforeSum: 1382344373
+Record: [ 11/08/19  00:52:08 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 252736683 - BeforeSum: 241633015
+Record: [ 11/08/19  00:52:08 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 578009855 - BeforeSum: 566906187
+Record: [ 11/08/19  00:52:08 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 184876365 - BeforeSum: 173772697
+Record: [ 11/08/19  17:12:53 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1320134851 - BeforeSum: 1301628742
+Record: [ 11/08/19  17:12:53 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Perffi - Sum: 233799125 - BeforeSum: 215293016
+Record: [ 11/08/19  17:12:53 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 203382474 - BeforeSum: 184876365
+Record: [ 12/08/19  01:49:44 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: Mindziuneee - Sum: 19361758.0
+Record: [ 12/08/19  01:49:44 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 597371637 - BeforeSum: 578009855
+Record: [ 12/08/19  01:49:44 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1339496633 - BeforeSum: 1320134851
+Record: [ 12/08/19  01:49:44 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 308835472 - BeforeSum: 289473690
+Record: [ 14/08/19  09:43:11 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: 7 SINS 1 MAN - Sum: 181653009 - BeforeSum: 173547380
+Record: [ 14/08/19  09:43:11 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 316941101 - BeforeSum: 308835472
+Record: [ 14/08/19  12:43:13 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 221174469 - BeforeSum: 203382474
+Record: [ 14/08/19  12:43:13 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Perffi - Sum: 251591120 - BeforeSum: 233799125
+Record: [ 14/08/19  12:43:13 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 615163632 - BeforeSum: 597371637
+Record: [ 14/08/19  20:33:24 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: spokeris - Sum: 334200902.5
+Record: [ 14/08/19  20:33:24 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: b2 b - Sum: 334200935.5
+Record: [ 15/08/19  13:40:45 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: aka Chaser - Sum: 35089280 - BeforeSum: 20443739
+Record: [ 15/08/19  13:40:45 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 331586642 - BeforeSum: 316941101
+Record: [ 15/08/19  18:05:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1352861153 - BeforeSum: 1339496633
+Record: [ 15/08/19  18:05:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 628528152 - BeforeSum: 615163632
+Record: [ 15/08/19  18:05:05 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Magnis B6 - Sum: 267374479 - BeforeSum: 254009959
+Record: [ 15/08/19  18:05:05 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: lll - Sum: 13364520.25
+Record: [ 16/08/19  19:41:20 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1372010733 - BeforeSum: 1352861153
+Record: [ 16/08/19  19:41:20 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 350736222 - BeforeSum: 331586642
+Record: [ 16/08/19  19:41:20 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 369885802 - BeforeSum: 350736222
+Record: [ 16/08/19  19:41:20 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 389035382 - BeforeSum: 369885802
+Record: [ 17/08/19  23:44:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1393091261 - BeforeSum: 1372010733
+Record: [ 17/08/19  23:44:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 396268485 - BeforeSum: 375187957
+Record: [ 17/08/19  23:44:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1414528569 - BeforeSum: 1393448041
+Record: [ 18/08/19  02:02:31 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: OsHelp - Sum: 433878985 - BeforeSum: 396268485
+Record: [ 18/08/19  02:02:31 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1430701761 - BeforeSum: 1393091261
+Record: [ 18/08/19  02:02:31 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 258784969 - BeforeSum: 221174469
+Record: [ 18/08/19  14:22:55 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 276859650 - BeforeSum: 258784969
+Record: [ 18/08/19  14:22:55 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: LOV Z/PSB Line - Sum: 18074681.666666668
+Record: [ 18/08/19  14:22:55 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 646602844 - BeforeSum: 628528152
+Record: [ 18/08/19  21:10:16 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1444257775 - BeforeSum: 1430701761
+Record: [ 18/08/19  21:10:16 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Holayowon - Sum: 266292697 - BeforeSum: 252736683
+Record: [ 18/08/19  21:10:16 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Swer - Sum: 1428084583 - BeforeSum: 1414528569
+Record: [ 18/08/19  21:10:16 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 402591396 - BeforeSum: 389035382
+Record: [ 18/08/19  21:10:57 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 666989314 - BeforeSum: 646602844
+Record: [ 18/08/19  21:10:57 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: QuBas - Sum: 20386470.333333332
+Record: [ 18/08/19  21:10:57 ] - Server: OSRS Lietuva - Action: Statistic Added -  Channel: 602158694926516224 - User: Not shown - Sum: 20386484.333333332
+Record: [ 18/08/19  21:11:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 680545329 - BeforeSum: 666989314
+Record: [ 18/08/19  21:11:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 416147411 - BeforeSum: 402591396
+Record: [ 18/08/19  21:11:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 429703426 - BeforeSum: 416147411
+Record: [ 18/08/19  21:11:36 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: random - Sum: 443259441 - BeforeSum: 429703426
+Record: [ 18/08/19  23:34:14 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: haiiG - Sum: 1787397373 - BeforeSum: 1444257775
+Record: [ 18/08/19  23:34:14 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 1023684927 - BeforeSum: 680545329
+Record: [ 18/08/19  23:34:14 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Not shown - Sum: 363526105 - BeforeSum: 20386507
+Record: [ 19/08/19  14:46:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Manu Kose666 - Sum: 1041582929 - BeforeSum: 1023684927
+Record: [ 19/08/19  14:46:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: Perffi - Sum: 269489122 - BeforeSum: 251591120
+Record: [ 19/08/19  14:46:06 ] - Server: OSRS Lietuva - Action: Statistic Updated -  Channel: 602158694926516224 - User: qwertyuiozxc - Sum: 294757652 - BeforeSum: 276859650

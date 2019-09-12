@@ -1,0 +1,83 @@
+b'Record: [ 19/07/19  22:18:49 ] - Action: Writte - User: <@274242537668083712> - Content: https://gyazo.com/3be159935242788a0ef94ff4e59b41f2'
+b'Record: [ 20/07/19  17:24:05 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/429ed24c4199281d55c586edbd25f524'
+b'Record: [ 21/07/19  14:06:34 ] - Action: Writte - User: <@274242537668083712> - Content: https://gyazo.com/8f6cb05b9f54f38afebd4f94bc6e52c5'
+b"Record: [ 24/07/19  16:34:37 ] - Action: Upload - User: <@!508649761142997020> - Content: [<Attachment id=603595899876278272 filename='2019-07-24_17-19-31.png' url='https://cdn.discordapp.com/attachments/449557227406360576/603595899876278272/2019-07-24_17-19-31.png'>]"
+b'Record: [ 24/07/19  22:34:00 ] - Action: Writte - User: <@277213837722255372> - Content: https://gyazo.com/5359a0f204fd36d69bb8adb4be7a64a8'
+b'Record: [ 24/07/19  22:35:13 ] - Action: Writte - User: <@!266324214250733568> - Content: ban <@277213837722255372>'
+b'Record: [ 25/07/19  07:08:27 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/98f9344b9fd40cd9d4a33e8f4e335230'
+b"Record: [ 25/07/19  18:28:58 ] - Action: Upload - User: <@351063788839108618> - Content: [<Attachment id=603987068716056577 filename='2019-07-25_19-24-21.png' url='https://cdn.discordapp.com/attachments/449557227406360576/603987068716056577/2019-07-25_19-24-21.png'>]"
+b"Record: [ 25/07/19  19:02:42 ] - Action: Upload - User: <@351338510055374848> - Content: [<Attachment id=603995560042561586 filename='Pet_2019-07-20_19-09-00.png' url='https://cdn.discordapp.com/attachments/449557227406360576/603995560042561586/Pet_2019-07-20_19-09-00.png'>]"
+b'Record: [ 25/07/19  20:01:49 ] - Action: Writte - User: <@351063788839108618> - Content: gz'
+b'Record: [ 25/07/19  21:15:39 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/b26181dd66f3fd3835d941e7526a7d22'
+b'Record: [ 25/07/19  23:21:02 ] - Action: Writte - User: <@524627417394839573> - Content: Trecias'
+b'Record: [ 27/07/19  01:11:01 ] - Action: Writte - User: <@!221402733331087362> - Content: https://gyazo.com/4626cde7b26b7c51c9ea0cc6468ce7f4'
+b'Record: [ 27/07/19  18:36:54 ] - Action: Writte - User: <@!405796958700044288> - Content: <@351338510055374848>  sunku ten ta Venenatis lurint i safespota ?'
+b"Record: [ 27/07/19  18:58:07 ] - Action: Upload - User: <@!266324214250733568> - Content: [<Attachment id=604719177886072842 filename='2019.07.27_19-55-42.png' url='https://cdn.discordapp.com/attachments/449557227406360576/604719177886072842/2019.07.27_19-55-42.png'>]"
+b"Record: [ 27/07/19  18:59:10 ] - Action: Upload - User: <@!266324214250733568> - Content: [<Attachment id=604719443670597633 filename='2019.07.27_19-38-10.png' url='https://cdn.discordapp.com/attachments/449557227406360576/604719443670597633/2019.07.27_19-38-10.png'>]"
+b"Record: [ 27/07/19  19:01:16 ] - Action: Upload - User: <@!266324214250733568> - Content: [<Attachment id=604719973469913090 filename='2019.07.27_19-35-54.png' url='https://cdn.discordapp.com/attachments/449557227406360576/604719973469913090/2019.07.27_19-35-54.png'>]"
+b"Record: [ 27/07/19  19:02:30 ] - Action: Upload - User: <@!266324214250733568> - Content: [<Attachment id=604720284041347083 filename='2019.07.27_19-12-26.png' url='https://cdn.discordapp.com/attachments/449557227406360576/604720284041347083/2019.07.27_19-12-26.png'>]"
+b"Record: [ 27/07/19  19:14:39 ] - Action: Upload - User: <@!266324214250733568> - Content: [<Attachment id=604723339486822400 filename='2019.07.27_20-07-12.png' url='https://cdn.discordapp.com/attachments/449557227406360576/604723339486822400/2019.07.27_20-07-12.png'>]"
+b"Record: [ 27/07/19  19:15:43 ] - Action: Upload - User: <@!266324214250733568> - Content: [<Attachment id=604723608329256961 filename='2019.07.27_20-09-22.png' url='https://cdn.discordapp.com/attachments/449557227406360576/604723608329256961/2019.07.27_20-09-22.png'>]"
+b"Record: [ 28/07/19  15:10:22 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=605024255075418132 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/605024255075418132/unknown.png'>]"
+b"Record: [ 28/07/19  15:12:33 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=605024803979526144 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/605024803979526144/unknown.png'>]"
+b"Record: [ 28/07/19  23:12:05 ] - Action: Upload - User: <@604685380045766679> - Content: [<Attachment id=605145484679577622 filename='Screenshot_20190728-231116.png' url='https://cdn.discordapp.com/attachments/449557227406360576/605145484679577622/Screenshot_20190728-231116.png'>]"
+b"Record: [ 30/07/19  18:08:56 ] - Action: Upload - User: <@!566292177161027586> - Content: [<Attachment id=605793970173247538 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/605793970173247538/unknown.png'>]"
+b'Record: [ 30/07/19  18:46:10 ] - Action: Writte - User: <@351338510055374848> - Content: kaip sakoma'
+b'Record: [ 30/07/19  18:47:16 ] - Action: Writte - User: <@351338510055374848> - Content: noiobam sekas'
+b'Record: [ 30/07/19  19:41:46 ] - Action: Writte - User: <@!566292177161027586> - Content: Pats tiuuu niobsd.'
+b'Record: [ 30/07/19  21:40:18 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/GlkS9kW.png'
+b"Record: [ 30/07/19  22:07:31 ] - Action: Upload - User: <@371652185374720002> - Content: [<Attachment id=605854011605778452 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/605854011605778452/unknown.png'>]"
+b'Record: [ 31/07/19  12:50:47 ] - Action: Writte - User: <@375771122995691538> - Content: <@566292177161027586> nice pet. \xc5\xbdiauriai ir a\xc5\xa1 noriu bandos peto :D'
+b'Record: [ 31/07/19  13:13:59 ] - Action: Writte - User: <@!566292177161027586> - Content: Tai gal kit\xc4\x85 kart\xc4\x85 eisi \xc4\xaf trip\xc4\x85? <:succ:585921250174435329>'
+b'Record: [ 31/07/19  13:53:48 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/2PpiaYN.png'
+b'Record: [ 31/07/19  15:00:17 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/E7fTVVx.png'
+b"Record: [ 01/08/19  23:11:47 ] - Action: Upload - User: <@!437616908036997132> - Content: [<Attachment id=606594964113326080 filename='pick.png' url='https://cdn.discordapp.com/attachments/449557227406360576/606594964113326080/pick.png'>]"
+b'Record: [ 02/08/19  12:30:35 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/e8ec3ba8cf7fe03b02f66fa587b4f907'
+b"Record: [ 02/08/19  15:10:36 ] - Action: Upload - User: <@111234940410097664> - Content: [<Attachment id=606836259863789571 filename='aik_tu_nx.PNG' url='https://cdn.discordapp.com/attachments/449557227406360576/606836259863789571/aik_tu_nx.PNG'>]"
+b'Record: [ 02/08/19  17:57:35 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/fda74164f83dd9c89cf35c3f15bd5028'
+b'Record: [ 02/08/19  21:29:28 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/kYRBZca.png'
+b"Record: [ 03/08/19  19:57:17 ] - Action: Upload - User: <@!266324214250733568> - Content: [<Attachment id=607270801749835797 filename='2019.08.03_20-21-34.png' url='https://cdn.discordapp.com/attachments/449557227406360576/607270801749835797/2019.08.03_20-21-34.png'>]"
+b"Record: [ 04/08/19  14:20:05 ] - Action: Upload - User: <@!376827551840206848> - Content: [<Attachment id=607548313855590421 filename='2019-08-04_15-16-59.png' url='https://cdn.discordapp.com/attachments/449557227406360576/607548313855590421/2019-08-04_15-16-59.png'>]"
+b'Record: [ 04/08/19  16:20:36 ] - Action: Writte - User: <@475356481206878228> - Content: https://cdn.discordapp.com/attachments/381536717808730114/607575948228820992/unknown.png'
+b'Record: [ 04/08/19  20:23:49 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/qsXLaLW.png'
+b"Record: [ 04/08/19  20:46:36 ] - Action: Upload - User: <@349958101023064065> - Content: [<Attachment id=607645586056937472 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/607645586056937472/unknown.png'>]"
+b"Record: [ 04/08/19  20:50:21 ] - Action: Upload - User: <@!376827551840206848> - Content: [<Attachment id=607646526738661378 filename='2019-08-04_21-48-44.png' url='https://cdn.discordapp.com/attachments/449557227406360576/607646526738661378/2019-08-04_21-48-44.png'>]"
+b"Record: [ 04/08/19  21:15:33 ] - Action: Upload - User: <@!376827551840206848> - Content: [<Attachment id=607652872414429199 filename='2019-08-04_22-13-33.png' url='https://cdn.discordapp.com/attachments/449557227406360576/607652872414429199/2019-08-04_22-13-33.png'>]"
+b"Record: [ 04/08/19  22:03:38 ] - Action: Upload - User: <@!146173186382364672> - Content: [<Attachment id=607664968921251851 filename='unknown-26.png' url='https://cdn.discordapp.com/attachments/449557227406360576/607664968921251851/unknown-26.png'>]"
+b'Record: [ 05/08/19  23:22:18 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/2O5GBC8.png'
+b'Record: [ 06/08/19  14:32:27 ] - Action: Writte - User: <@!306841347468427264> - Content: yes'
+b'Record: [ 06/08/19  16:31:33 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/Bvkv37J.png'
+b'Record: [ 06/08/19  19:18:08 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/92277019dc91873ea6ced2b3c28b7f22'
+b"Record: [ 06/08/19  19:36:27 ] - Action: Upload - User: <@!376827551840206848> - Content: [<Attachment id=608352702073929749 filename='2019-08-06_20-22-43.png' url='https://cdn.discordapp.com/attachments/449557227406360576/608352702073929749/2019-08-06_20-22-43.png'>]"
+b'Record: [ 07/08/19  15:25:10 ] - Action: Writte - User: <@524627417394839573> - Content: Gz'
+b'Record: [ 07/08/19  19:52:15 ] - Action: Writte - User: <@!221402733331087362> - Content: https://gyazo.com/594b1b2d21ef5b96952163c57d39b21d'
+b'Record: [ 07/08/19  23:01:03 ] - Action: Writte - User: <@!221402733331087362> - Content: https://gyazo.com/616ceb51f47183b81002ae3c7fb2f534?token=22bc49f7c2f86fbecec4d3d93a08d83a'
+b'Record: [ 09/08/19  11:19:15 ] - Action: Writte - User: <@307284671308234763> - Content: Gratz! <:FeelsWowMan:514918113494695946>'
+b"Record: [ 09/08/19  20:53:34 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=609459283641237505 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/609459283641237505/unknown.png'>]"
+b"Record: [ 10/08/19  09:12:48 ] - Action: Upload - User: <@!216924057818365954> - Content: [<Attachment id=609645310892965889 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/609645310892965889/unknown.png'>]"
+b"Record: [ 10/08/19  14:29:43 ] - Action: Upload - User: <@!284836877926793216> - Content: [<Attachment id=609725068452429827 filename='visageee.png' url='https://cdn.discordapp.com/attachments/449557227406360576/609725068452429827/visageee.png'>]"
+b'Record: [ 10/08/19  14:34:34 ] - Action: Writte - User: <@!247372340965539840> - Content: gz'
+b'Record: [ 10/08/19  15:35:46 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/b95c9d43037b97e90ca54938d05b2e9a'
+b'Record: [ 10/08/19  15:48:46 ] - Action: Writte - User: <@417264765702897674> - Content: gz'
+b'Record: [ 10/08/19  15:57:36 ] - Action: Writte - User: <@524627417394839573> - Content: dekui!'
+b"Record: [ 10/08/19  20:27:11 ] - Action: Upload - User: <@!408540392569569280> - Content: [<Attachment id=609815026244780048 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/609815026244780048/unknown.png'>]"
+b"Record: [ 11/08/19  12:42:38 ] - Action: Upload - User: <@!408540392569569280> - Content: [<Attachment id=610060507302330379 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/610060507302330379/unknown.png'>]"
+b'Record: [ 11/08/19  15:26:32 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/9c4de560abaff9dd606f62b1a8c6b368'
+b'Record: [ 11/08/19  15:53:54 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/eefd91108a39e678e017b64e4ec5d35b'
+b'Record: [ 11/08/19  21:30:00 ] - Action: Writte - User: <@!405796958700044288> - Content: http://prntscr.com/orbh1l\n2x Zenyte\nBack 2 Back'
+b'Record: [ 11/08/19  21:41:24 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/a36bb7edf9e0a9568b77cabe46a2d71c'
+b"Record: [ 13/08/19  23:25:23 ] - Action: Upload - User: <@!246934986819633152> - Content: [<Attachment id=610947032655462448 filename='Screenshot_7.png' url='https://cdn.discordapp.com/attachments/449557227406360576/610947032655462448/Screenshot_7.png'>]"
+b'Record: [ 14/08/19  16:14:22 ] - Action: Writte - User: <@!295360291556950017> - Content: https://gyazo.com/bd1eb2d59e67864e76be6a8cf6ef5ddb su b2b'
+b'Record: [ 14/08/19  17:40:05 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/1npJxcH.png'
+b"Record: [ 15/08/19  17:16:41 ] - Action: Upload - User: <@!114774616525766660> - Content: [<Attachment id=611579024665477120 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/611579024665477120/unknown.png'>]"
+b"Record: [ 15/08/19  21:37:29 ] - Action: Upload - User: <@!546711575445241876> - Content: [<Attachment id=611644658107416583 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/611644658107416583/unknown.png'>]"
+b"Record: [ 15/08/19  21:37:31 ] - Action: Upload - User: <@329668530926780426> - Content: [<Attachment id=611644666366001152 filename='546711575445241876.png' url='https://cdn.discordapp.com/attachments/449557227406360576/611644666366001152/546711575445241876.png'>]"
+b'Record: [ 16/08/19  14:47:54 ] - Action: Writte - User: <@524627417394839573> - Content: https://gyazo.com/dc06bf43371650cea8d63febe8ae00e4'
+b'Record: [ 18/08/19  00:00:23 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/wRv1Bns.png'
+b"Record: [ 18/08/19  11:55:47 ] - Action: Upload - User: <@!114774616525766660> - Content: [<Attachment id=612585426175262736 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/612585426175262736/unknown.png'>]"
+b'Record: [ 18/08/19  14:18:46 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/nMotalx.png pasyseke'
+b"Record: [ 18/08/19  14:50:27 ] - Action: Upload - User: <@412650884951048195> - Content: [<Attachment id=612629379561816092 filename='unknown.png' url='https://cdn.discordapp.com/attachments/449557227406360576/612629379561816092/unknown.png'>]"
+b"Record: [ 18/08/19  21:04:41 ] - Action: Upload - User: <@!437616908036997132> - Content: [<Attachment id=612723566026293265 filename='Hard37.png' url='https://cdn.discordapp.com/attachments/449557227406360576/612723566026293265/Hard37.png'>]"
+b"Record: [ 18/08/19  23:32:36 ] - Action: Upload - User: <@148894539262853120> - Content: [<Attachment id=612760789446688805 filename='Chambers_of_Xeric1282.png' url='https://cdn.discordapp.com/attachments/449557227406360576/612760789446688805/Chambers_of_Xeric1282.png'>]"
+b'Record: [ 18/08/19  23:41:00 ] - Action: Writte - User: <@!247372340965539840> - Content: gzz'
+b'Record: [ 19/08/19  15:31:11 ] - Action: Writte - User: <@335401734698696705> - Content: sad'

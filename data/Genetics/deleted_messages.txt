@@ -1,0 +1,6 @@
+b'Record: [ 17/08/19  13:29:00 ] - Action: Delete - Channel: <#612246263664082944> - User: <@!527067554070396940> - Content: .setup init'
+b'Record: [ 17/08/19  13:29:19 ] - Action: Delete - Channel: <#612246442391896102> - User: <@!527067554070396940> - Content: .rsn Soldier'
+b'Record: [ 17/08/19  13:30:25 ] - Action: Delete - Channel: <#612246442391896102> - User: <@!527067554070396940> - Content: .rsn Simple'
+b'Record: [ 17/08/19  13:31:33 ] - Action: Delete - Channel: <#612246445508001792> - User: <@!527067554070396940> - Content: We\xc3\x9ft jemand, wo ist Faust?'
+b'Record: [ 17/08/19  13:34:21 ] - Action: Delete - Channel: <#612246445508001792> - User: <@!527067554070396940> - Content: Komisch, wenn er wieder erscheint, sag ihm, dass ich mit ihm sprechen m\xc3\xb6chte.'
+b'Record: [ 17/08/19  13:35:53 ] - Action: Delete - Channel: <#612246445508001792> - User: <@!527067554070396940> - Content: Bis Montag und sch\xc3\xb6nes Wochenende.#'

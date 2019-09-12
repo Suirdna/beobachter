@@ -1,0 +1,47 @@
+b"Record: [ 16/08/19  13:15:53 ] - Action: Upload - User: <@!566292177161027586> - Content: [<Attachment id=611880810190078002 filename='unknown.png' url='https://cdn.discordapp.com/attachments/611862725265588255/611880810190078002/unknown.png'>]"
+b'Record: [ 16/08/19  13:18:16 ] - Action: Writte - User: <@307284671308234763> - Content: Gratz! <:FeelsWowMan:514918113494695946>'
+b'Record: [ 16/08/19  13:19:22 ] - Action: Writte - User: <@524627417394839573> - Content: gz!'
+b'Record: [ 16/08/19  13:40:32 ] - Action: Writte - User: <@!114774616525766660> - Content: gz'
+b'Record: [ 17/08/19  10:03:36 ] - Action: Writte - User: <@!114774616525766660> - Content: w0w'
+b"Record: [ 17/08/19  12:49:20 ] - Action: Upload - User: <@307284671308234763> - Content: [<Attachment id=612236521281552384 filename='Screenshot_20190817-134843_Old_School_RuneScape.jpg' url='https://cdn.discordapp.com/attachments/611862725265588255/612236521281552384/Screenshot_20190817-134843_Old_School_RuneScape.jpg'>]"
+b'Record: [ 17/08/19  12:51:25 ] - Action: Writte - User: <@!114774616525766660> - Content: gz!'
+b'Record: [ 17/08/19  12:52:38 ] - Action: Writte - User: <@307284671308234763> - Content: Ty <:LoveMe:536556397010092053>'
+b"Record: [ 17/08/19  13:48:59 ] - Action: Upload - User: <@307284671308234763> - Content: [<Attachment id=612251531273830410 filename='Screenshot_20190817-144717_Old_School_RuneScape.jpg' url='https://cdn.discordapp.com/attachments/611862725265588255/612251531273830410/Screenshot_20190817-144717_Old_School_RuneScape.jpg'>]"
+b"Record: [ 17/08/19  17:15:48 ] - Action: Upload - User: <@!114774616525766660> - Content: [<Attachment id=612303578136313866 filename='unknown.png' url='https://cdn.discordapp.com/attachments/611862725265588255/612303578136313866/unknown.png'>]"
+b'Record: [ 17/08/19  17:19:36 ] - Action: Writte - User: <@307284671308234763> - Content: Feelsbadman<:FeelsBadMan:306170070202318848>'
+b'Record: [ 17/08/19  18:48:35 ] - Action: Writte - User: <@!306841347468427264> - Content: https://i.imgur.com/QHOlmYm.png kaip ir zadejau kai kazka pasieksiu'
+b'Record: [ 17/08/19  19:17:06 ] - Action: Writte - User: <@!114774616525766660> - Content: <:kawaii:529248737407664159>'
+b'Record: [ 17/08/19  19:18:45 ] - Action: Writte - User: <@307284671308234763> - Content: Gratz! <:FeelsWowMan:514918113494695946> <:POGGERS:514913005327351811>'
+b"Record: [ 17/08/19  21:32:40 ] - Action: Upload - User: <@349958101023064065> - Content: [<Attachment id=612368221202415711 filename='unknown.png' url='https://cdn.discordapp.com/attachments/611862725265588255/612368221202415711/unknown.png'>]"
+b'Record: [ 17/08/19  21:51:05 ] - Action: Writte - User: <@307284671308234763> - Content: Gratz! Vezio atsikratei! <:FeelsWowMan:514918113494695946>'
+b'Record: [ 17/08/19  21:58:47 ] - Action: Writte - User: <@!266324214250733568> - Content: <:cat:519647231515557888>'
+b'Record: [ 17/08/19  22:36:15 ] - Action: Writte - User: <@375771122995691538> - Content: wtf'
+b'Record: [ 17/08/19  22:36:16 ] - Action: Writte - User: <@375771122995691538> - Content: ?'
+b'Record: [ 17/08/19  22:38:22 ] - Action: Writte - User: <@349958101023064065> - Content: Pro skilleris esu'
+b'Record: [ 17/08/19  22:38:48 ] - Action: Writte - User: <@375771122995691538> - Content: tai man bent iki 77 rc'
+b'Record: [ 17/08/19  22:38:50 ] - Action: Writte - User: <@375771122995691538> - Content: :D'
+b'Record: [ 17/08/19  22:39:00 ] - Action: Writte - User: <@375771122995691538> - Content: pakelk sumokesiu'
+b'Record: [ 17/08/19  22:39:11 ] - Action: Writte - User: <@375771122995691538> - Content: jei cia per h 10m exp tai vanduo bus'
+b'Record: [ 17/08/19  22:39:12 ] - Action: Writte - User: <@375771122995691538> - Content: :D'
+b'Record: [ 17/08/19  22:39:21 ] - Action: Writte - User: <@375771122995691538> - Content: sori'
+b'Record: [ 17/08/19  22:39:28 ] - Action: Writte - User: <@375771122995691538> - Content: daugiau cia per h :D'
+b'Record: [ 17/08/19  22:44:17 ] - Action: Writte - User: <@349958101023064065> - Content: \xc4\x8dia gi su runelite fake xp dropai \xf0\x9f\x98\x84'
+b'Record: [ 17/08/19  22:46:34 ] - Action: Writte - User: <@375771122995691538> - Content: tai as zn :D tik prikolinu'
+b"Record: [ 18/08/19  11:13:07 ] - Action: Upload - User: <@307284671308234763> - Content: [<Attachment id=612574692196352000 filename='2019-08-18_12-09-07.png' url='https://cdn.discordapp.com/attachments/611862725265588255/612574692196352000/2019-08-18_12-09-07.png'>]"
+b'Record: [ 18/08/19  11:23:09 ] - Action: Writte - User: <@!114774616525766660> - Content: bonk'
+b'Record: [ 18/08/19  11:25:19 ] - Action: Writte - User: <@307284671308234763> - Content: Pirmas geras itemas is elite <:FeelsWowMan:514918113494695946>'
+b'Record: [ 18/08/19  11:25:38 ] - Action: Writte - User: <@349958101023064065> - Content: Nes tik 11 padar\xc4\x99s \xf0\x9f\x98\x84'
+b'Record: [ 18/08/19  11:27:34 ] - Action: Writte - User: <@307284671308234763> - Content: Shhh <:MonkaChrist:514912978634539008>'
+b'Record: [ 18/08/19  16:12:14 ] - Action: Writte - User: <@255766460293447680> - Content: https://i.imgur.com/QiAJSCd.png'
+b'Record: [ 18/08/19  16:12:15 ] - Action: Writte - User: <@255766460293447680> - Content: tob WR'
+b'Record: [ 18/08/19  16:12:38 ] - Action: Writte - User: <@307284671308234763> - Content: Gratz!<:POGGERS:514913005327351811>'
+b"Record: [ 18/08/19  16:46:22 ] - Action: Upload - User: <@307284671308234763> - Content: [<Attachment id=612658556415508503 filename='Fishing94.png' url='https://cdn.discordapp.com/attachments/611862725265588255/612658556415508503/Fishing94.png'>]"
+b'Record: [ 18/08/19  17:08:05 ] - Action: Writte - User: <@!306841347468427264> - Content: bet vis tiek tobinsi toliau?'
+b'Record: [ 18/08/19  17:12:47 ] - Action: Writte - User: <@255766460293447680> - Content: y'
+b'Record: [ 18/08/19  17:12:48 ] - Action: Writte - User: <@255766460293447680> - Content: sub 14'
+b"Record: [ 18/08/19  18:58:19 ] - Action: Upload - User: <@!114774616525766660> - Content: [<Attachment id=612691754554097664 filename='unknown.png' url='https://cdn.discordapp.com/attachments/611862725265588255/612691754554097664/unknown.png'>]"
+b'Record: [ 18/08/19  19:38:28 ] - Action: Writte - User: <@307284671308234763> - Content: Gratz! Dar vienas ir hydra! <:FeelsWowMan:514918113494695946>'
+b'Record: [ 18/08/19  20:00:47 ] - Action: Writte - User: <@197434472474345472> - Content: !add'
+b"Record: [ 18/08/19  21:41:21 ] - Action: Upload - User: <@307284671308234763> - Content: [<Attachment id=612732790252896272 filename='QuestSong_of_the_Elves.png' url='https://cdn.discordapp.com/attachments/611862725265588255/612732790252896272/QuestSong_of_the_Elves.png'>]"
+b'Record: [ 18/08/19  21:44:55 ] - Action: Writte - User: <@!266324214250733568> - Content: gz zuiki <:LoveMe:536556397010092053>'
+b'Record: [ 18/08/19  21:46:03 ] - Action: Writte - User: <@307284671308234763> - Content: Aciu <:LoveMe:536556397010092053>'

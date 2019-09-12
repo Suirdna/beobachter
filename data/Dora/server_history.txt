@@ -1,0 +1,25 @@
+b'Record: [ 26/07/19  14:57:53 ] - Action: Guild Join - Server: Dora - Server Icon:  - Server Owner: FaustRecht#5546 - Created at: 2019-07-26 12:57:15.751000'
+b'DATE: [ 26/07/19  14:57:53 ]'
+b'SERVER CONFIGURATION LOG'
+b'---------------------------------------------------------------------------'
+b'SERVER NAME = Dora'
+b'SERVER ID = 604296176472162336'
+b'SERVER REGION = eu-central'
+b'SERVER OWNER_NAME = FaustRecht'
+b'SERVER OWNER_ID = 566292177161027586'
+b'SERVER VERIFICATION_LEVEL = none'
+b'---------------------------------------------------------------------------'
+b"SERVER INVITE_LIST = [<Invite code='YWNVck' guild=<Guild id=604296176472162336 name='Dora' shard_id=None chunked=True member_count=2> online=None members=None>]"
+b'---------------------------------------------------------------------------'
+b"SERVER TEXT_CHANNEL_LIST = [<TextChannel id=604296176472162338 name='general' position=0 nsfw=False news=False category_id=604296176472162337>]"
+b'---------------------------------------------------------------------------'
+b"SERVER VOICE_CHANNEL_LIST = [<VoiceChannel id=604296176472162340 name='General' position=0 bitrate=64000 user_limit=0 category_id=604296176472162339>]"
+b'---------------------------------------------------------------------------'
+b"SERVER CATEGORY_LIST = [<CategoryChannel id=604296176472162337 name='Text Channels' position=0 nsfw=False>, <CategoryChannel id=604296176472162339 name='Voice Channels' position=0 nsfw=False>]"
+b'---------------------------------------------------------------------------'
+b"SERVER MEMBER_LIST = [<Member id=566292177161027586 name='FaustRecht' discriminator='5546' bot=False nick=None guild=<Guild id=604296176472162336 name='Dora' shard_id=None chunked=True member_count=2>>, <Member id=604292666687094785 name='Beobachter New' discriminator='3661' bot=True nick=None guild=<Guild id=604296176472162336 name='Dora' shard_id=None chunked=True member_count=2>>]"
+b'---------------------------------------------------------------------------'
+b"SERVER ROLE_LIST = [<Role id=604296176472162336 name='@everyone'>, <Role id=604296331158356011 name='Beobachter New'>]"
+b'---------------------------------------------------------------------------'
+b'SERVER AUDIT LOG'
+b"AUDIT LOG = <AuditLogEntry id=604296182294118412 action=AuditLogAction.invite_create user=<Member id=566292177161027586 name='FaustRecht' discriminator='5546' bot=False nick=None guild=<Guild id=604296176472162336 name='Dora' shard_id=None chunked=True member_count=2>>>"

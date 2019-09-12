@@ -1,0 +1,6 @@
+b'Record: [ 20/07/19  17:07:27 ] - Action: Writte - User: <@599615116044009477> - Content: !rw What'
+b'Record: [ 20/07/19  17:07:28 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 20/07/19  17:10:02 ] - Action: Writte - User: <@599615116044009477> - Content: !rw What'
+b'Record: [ 20/07/19  17:10:04 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 20/07/19  17:18:40 ] - Action: Writte - User: <@599615116044009477> - Content: !rw What'
+b'Record: [ 20/07/19  17:18:41 ] - Action: Writte - User: <@599615116044009477> - Content: '

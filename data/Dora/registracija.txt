@@ -1,0 +1,7 @@
+b"Record: [ 26/07/19  14:58:57 ] - Action: Upload - User: <@604292666687094785> - Content: [<Attachment id=604296603133542409 filename='structure_logo.png' url='https://cdn.discordapp.com/attachments/604296583668039687/604296603133542409/structure_logo.png'>]"
+b'Record: [ 26/07/19  14:58:58 ] - Action: Writte - User: <@604292666687094785> - Content: *Prisijungdami prie OSRS Lietuva PvM grup\xc4\x97s, j\xc5\xabs sutinkate su joje galiojan\xc4\x8diomis taisykl\xc4\x97mis .*\n*Prie\xc5\xa1 registruodamiesi, b\xc5\xabtinai patikrinkite ar discordo botas <@599615116044009477> n\xc4\x97ra offline.*\n*Nor\xc4\x97dami u\xc5\xberegistruoti savo* **RSN** *(Runescape nickname), \xc4\xafvekite komand\xc4\x85* **.rsn ir savo tiksl\xc5\xb3 RSN**. *Pavyzdys apa\xc4\x8dioje.* **\xe2\xa4\x8b**'
+b"Record: [ 26/07/19  14:58:58 ] - Action: Upload - User: <@604292666687094785> - Content: [<Attachment id=604296606728192012 filename='structure_reg_example.png' url='https://cdn.discordapp.com/attachments/604296583668039687/604296606728192012/structure_reg_example.png'>]"
+b'Record: [ 26/07/19  15:00:30 ] - Action: Writte - User: <@582600982916235290> - Content: .rsn random'
+b'Record: [ 01/08/19  18:12:37 ] - Action: Writte - User: <@!527067554070396940> - Content: .rsn lol'
+b'Record: [ 10/08/19  09:09:09 ] - Action: Writte - User: <@!527067554070396940> - Content: .rsn Zimmer'
+b'Record: [ 10/08/19  09:09:22 ] - Action: Writte - User: <@!527067554070396940> - Content: .rsn lol'

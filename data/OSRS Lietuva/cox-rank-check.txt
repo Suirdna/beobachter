@@ -1,0 +1,10 @@
+b'Record: [ 21/07/19  17:22:58 ] - Action: Writte - User: <@!169141068212731904> - Content: https://gyazo.com/689969d8284df15f5b1f8037e23d50c3'
+b"Record: [ 21/07/19  17:22:58 ] - Action: Upload - User: <@329668530926780426> - Content: [<Attachment id=602520907457495040 filename='169141068212731904.png' url='https://cdn.discordapp.com/attachments/600339466862723135/602520907457495040/169141068212731904.png'>]"
+b"Record: [ 21/07/19  18:06:25 ] - Action: Upload - User: <@284720881840685057> - Content: [<Attachment id=602531841785856010 filename='unknown.png' url='https://cdn.discordapp.com/attachments/600339466862723135/602531841785856010/unknown.png'>]"
+b"Record: [ 03/08/19  18:35:06 ] - Action: Upload - User: <@!218329723871166464> - Content: [<Attachment id=607250117828935710 filename='unknown.png' url='https://cdn.discordapp.com/attachments/600339466862723135/607250117828935710/unknown.png'>]"
+b'Record: [ 10/08/19  08:44:40 ] - Action: Writte - User: <@216924057818365954> - Content: .check'
+b'Record: [ 10/08/19  11:06:20 ] - Action: Writte - User: <@!246934986819633152> - Content: .cox 405'
+b'Record: [ 10/08/19  11:06:21 ] - Action: Writte - User: <@599615116044009477> - Content: **OSRS Lietuva** *\xc5\xa0i\xc4\x85 komand\xc4\x85 galima naudoti tik <#602158701125566475> skiltyje.*'
+b'Record: [ 12/08/19  20:01:27 ] - Action: Writte - User: <@!304654874719813634> - Content: https://gyazo.com/e4c5d2879e6e73912208343b01f9dea4'
+b"Record: [ 13/08/19  23:23:38 ] - Action: Upload - User: <@!246934986819633152> - Content: [<Attachment id=610946594342174732 filename='Screenshot_3.png' url='https://cdn.discordapp.com/attachments/600339466862723135/610946594342174732/Screenshot_3.png'>]"
+b'Record: [ 13/08/19  23:33:49 ] - Action: Writte - User: <@359337389560430607> - Content: http://prntscr.com/osaqi3'

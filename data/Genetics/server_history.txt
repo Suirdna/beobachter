@@ -1,0 +1,26 @@
+b'Record: [ 17/08/19  13:28:37 ] - Action: Guild Join - Server: Genetics - Server Icon:  - Server Owner: Smilas#5833 - Created at: 2019-08-17 11:28:04.129000'
+b'DATE: [ 17/08/19  13:28:37 ]'
+b'SERVER CONFIGURATION LOG'
+b'---------------------------------------------------------------------------'
+b'SERVER NAME = Genetics'
+b'SERVER ID = 612246263186063361'
+b'SERVER REGION = eu-central'
+b'SERVER OWNER_NAME = Smilas'
+b'SERVER OWNER_ID = 527067554070396940'
+b'SERVER VERIFICATION_LEVEL = none'
+b'---------------------------------------------------------------------------'
+b"SERVER INVITE_LIST = [<Invite code='eys86z' guild=<Guild id=612246263186063361 name='Genetics' shard_id=None chunked=True member_count=2> online=None members=None>]"
+b'---------------------------------------------------------------------------'
+b"SERVER TEXT_CHANNEL_LIST = [<TextChannel id=612246263664082944 name='Allgemein' position=0 nsfw=False news=False category_id=612246263186063362>]"
+b'---------------------------------------------------------------------------'
+b"SERVER VOICE_CHANNEL_LIST = [<VoiceChannel id=612246263664082949 name='Allgemein' position=0 bitrate=64000 user_limit=0 category_id=612246263664082946>]"
+b'---------------------------------------------------------------------------'
+b"SERVER CATEGORY_LIST = [<CategoryChannel id=612246263186063362 name='Textkan\xc3\xa4le' position=0 nsfw=False>, <CategoryChannel id=612246263664082946 name='Sprachkan\xc3\xa4le' position=0 nsfw=False>]"
+b'---------------------------------------------------------------------------'
+b"SERVER MEMBER_LIST = [<Member id=527067554070396940 name='Smilas' discriminator='5833' bot=False nick='SimpleAsPossible' guild=<Guild id=612246263186063361 name='Genetics' shard_id=None chunked=True member_count=2>>, <Member id=599615116044009477 name='Beobachter' discriminator='0365' bot=True nick=None guild=<Guild id=612246263186063361 name='Genetics' shard_id=None chunked=True member_count=2>>]"
+b'---------------------------------------------------------------------------'
+b"SERVER ROLE_LIST = [<Role id=612246263186063361 name='@everyone'>, <Role id=612246402122121217 name='Beobachter'>]"
+b'---------------------------------------------------------------------------'
+b'SERVER AUDIT LOG'
+b"AUDIT LOG = <AuditLogEntry id=612246359734484992 action=AuditLogAction.member_update user=<Member id=527067554070396940 name='Smilas' discriminator='5833' bot=False nick='SimpleAsPossible' guild=<Guild id=612246263186063361 name='Genetics' shard_id=None chunked=True member_count=2>>>"
+b"AUDIT LOG = <AuditLogEntry id=612246270123442198 action=AuditLogAction.invite_create user=<Member id=527067554070396940 name='Smilas' discriminator='5833' bot=False nick='SimpleAsPossible' guild=<Guild id=612246263186063361 name='Genetics' shard_id=None chunked=True member_count=2>>>"

@@ -1,0 +1,46 @@
+b'Record: [ 10/08/19  19:19:25 ] - Action: Guild Join - Server: Test - Server Icon:  - Server Owner: Haris#4176 - Created at: 2019-08-10 17:15:14.791000'
+b'DATE: [ 10/08/19  19:19:25 ]'
+b'SERVER CONFIGURATION LOG'
+b'---------------------------------------------------------------------------'
+b'SERVER NAME = Test'
+b'SERVER ID = 609796918255681547'
+b'SERVER REGION = russia'
+b'SERVER OWNER_NAME = Haris'
+b'SERVER OWNER_ID = 390992657125736451'
+b'SERVER VERIFICATION_LEVEL = none'
+b'---------------------------------------------------------------------------'
+b"SERVER INVITE_LIST = [<Invite code='HKv7YB' guild=<Guild id=609796918255681547 name='Test' shard_id=None chunked=True member_count=3> online=None members=None>]"
+b'---------------------------------------------------------------------------'
+b"SERVER TEXT_CHANNEL_LIST = [<TextChannel id=609796918255681551 name='general' position=0 nsfw=False news=False category_id=609796918255681549>]"
+b'---------------------------------------------------------------------------'
+b"SERVER VOICE_CHANNEL_LIST = [<VoiceChannel id=609796918255681555 name='General' position=0 bitrate=64000 user_limit=0 category_id=609796918255681553>]"
+b'---------------------------------------------------------------------------'
+b"SERVER CATEGORY_LIST = [<CategoryChannel id=609796918255681549 name='Text Channels' position=0 nsfw=False>, <CategoryChannel id=609796918255681553 name='Voice Channels' position=0 nsfw=False>]"
+b'---------------------------------------------------------------------------'
+b"SERVER MEMBER_LIST = [<Member id=390992657125736451 name='Haris' discriminator='4176' bot=False nick=None guild=<Guild id=609796918255681547 name='Test' shard_id=None chunked=True member_count=3>>, <Member id=566292177161027586 name='FaustRecht' discriminator='5546' bot=False nick=None guild=<Guild id=609796918255681547 name='Test' shard_id=None chunked=True member_count=3>>, <Member id=599615116044009477 name='Beobachter' discriminator='0365' bot=True nick=None guild=<Guild id=609796918255681547 name='Test' shard_id=None chunked=True member_count=3>>]"
+b'---------------------------------------------------------------------------'
+b"SERVER ROLE_LIST = [<Role id=609796918255681547 name='@everyone'>, <Role id=609797970581389402 name='Beobachter'>]"
+b'---------------------------------------------------------------------------'
+b'SERVER AUDIT LOG'
+b"AUDIT LOG = <AuditLogEntry id=609796920239456266 action=AuditLogAction.invite_create user=<Member id=390992657125736451 name='Haris' discriminator='4176' bot=False nick=None guild=<Guild id=609796918255681547 name='Test' shard_id=None chunked=True member_count=3>>>"
+b'Old: Test New: Test'
+b'Record: [ 11/08/19  09:36:19 ] - Action: Guild Remove - Server: Test - Server Icon:  - Server Owner: Haris#4176 - Created at: 2019-08-10 17:15:14.791000'
+b'DATE: [ 11/08/19  09:36:19 ]'
+b'SERVER CONFIGURATION LOG'
+b'---------------------------------------------------------------------------'
+b'SERVER NAME = Test'
+b'SERVER ID = 609796918255681547'
+b'SERVER REGION = russia'
+b'SERVER OWNER_NAME = Haris'
+b'SERVER OWNER_ID = 390992657125736451'
+b'SERVER VERIFICATION_LEVEL = none'
+b'---------------------------------------------------------------------------'
+b"SERVER TEXT_CHANNEL_LIST = [<TextChannel id=609796918255681551 name='general' position=0 nsfw=False news=False category_id=609796918255681549>, <TextChannel id=609800807826587649 name='registracija' position=1 nsfw=False news=False category_id=609800806899908642>, <TextChannel id=609800808107868188 name='u\xc5\xbedarbis' position=2 nsfw=False news=False category_id=609800806899908642>, <TextChannel id=609800808925757441 name='check-rsn' position=3 nsfw=False news=False category_id=609800806899908642>, <TextChannel id=609800809701441550 name='eventai' position=4 nsfw=False news=False category_id=609800806899908642>, <TextChannel id=609800810569662476 name='global-pokalbiai' position=5 nsfw=False news=False category_id=609800806899908642>, <TextChannel id=609800812289327117 name='beobachter' position=7 nsfw=False news=False category_id=609800806899908642>]"
+b'---------------------------------------------------------------------------'
+b"SERVER VOICE_CHANNEL_LIST = [<VoiceChannel id=609796918255681555 name='General' position=0 bitrate=64000 user_limit=0 category_id=609796918255681553>]"
+b'---------------------------------------------------------------------------'
+b"SERVER CATEGORY_LIST = [<CategoryChannel id=609796918255681549 name='Text Channels' position=0 nsfw=False>, <CategoryChannel id=609796918255681553 name='Voice Channels' position=0 nsfw=False>, <CategoryChannel id=609800806899908642 name='BEOBACHTER - PVM' position=1 nsfw=False>]"
+b'---------------------------------------------------------------------------'
+b"SERVER MEMBER_LIST = [<Member id=292335349169127427 name='Matuchini' discriminator='9273' bot=False nick=None guild=<Guild id=609796918255681547 name='Test' shard_id=None chunked=True member_count=3>>, <Member id=390992657125736451 name='Haris' discriminator='4176' bot=False nick=None guild=<Guild id=609796918255681547 name='Test' shard_id=None chunked=True member_count=3>>, <Member id=599615116044009477 name='Beobachter' discriminator='0365' bot=True nick=None guild=<Guild id=609796918255681547 name='Test' shard_id=None chunked=True member_count=3>>]"
+b'---------------------------------------------------------------------------'
+b"SERVER ROLE_LIST = [<Role id=609796918255681547 name='@everyone'>, <Role id=609800806304055297 name='Narys'>, <Role id=609800805523914774 name='Beobachter - Global'>, <Role id=609800805020729345 name='Event - Organizer'>, <Role id=609800804232200215 name='Novice - Splitter'>, <Role id=609800803451928616 name='Average - Splitter'>, <Role id=609800802747285514 name='Trusted - Splitter'>, <Role id=609800801963081733 name='Loyal - Splitter'>, <Role id=609797970581389402 name='Beobachter'>]"

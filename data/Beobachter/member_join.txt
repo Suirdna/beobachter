@@ -1,0 +1,6 @@
+b'Record: [ 19/07/19  20:29:28 ] - Action: Joined - User: random - Uerd ID: 582600982916235290 - Created at: 2019-05-27 16:08:18.530000'
+b'Record: [ 23/07/19  17:22:43 ] - Action: Joined - User: Forsas - Uerd ID: 400299760122069002 - Created at: 2018-01-09 14:48:20.023000'
+b'Record: [ 17/08/19  09:29:36 ] - Action: Joined - User: Leonora - Uerd ID: 612183967776636943 - Created at: 2019-08-17 07:20:31.746000'
+b'Record: [ 17/08/19  13:17:15 ] - Action: Joined - User: Leonora - Uerd ID: 612183967776636943 - Created at: 2019-08-17 07:20:31.746000'
+b'Record: [ 17/08/19  13:18:03 ] - Action: Joined - User: Leonora - Uerd ID: 612183967776636943 - Created at: 2019-08-17 07:20:31.746000'
+b'Record: [ 17/08/19  13:19:53 ] - Action: Joined - User: \xd0\xb4\xd0\xb5\xd0\xb4\xd0\xbc\xd0\xbe\xd1\x80\xd0\xbe\xd0\xb7\xd1\x8c - Uerd ID: 612243842401566730 - Created at: 2019-08-17 11:18:26.969000'

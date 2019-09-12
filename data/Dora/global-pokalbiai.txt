@@ -1,0 +1,6 @@
+b'Record: [ 10/08/19  09:12:07 ] - Action: Writte - User: <@566292177161027586> - Content: .disconnect'
+b'Record: [ 10/08/19  09:12:22 ] - Action: Writte - User: <@!527067554070396940> - Content: lol'
+b'Record: [ 10/08/19  09:12:23 ] - Action: Writte - User: <@604292666687094785> - Content: `Dora` **lol** *lol*'
+b'Record: [ 10/08/19  09:12:27 ] - Action: Writte - User: <@!527067554070396940> - Content: .disconnect'
+b'Record: [ 10/08/19  09:12:28 ] - Action: Writte - User: <@604292666687094785> - Content: `Dora` **lol** *.disconnect*'
+b'Record: [ 10/08/19  09:12:29 ] - Action: Writte - User: <@604292666687094785> - Content: **Dora** *\xc5\xbdaid\xc4\x97jas <@!527067554070396940> atsijung\xc4\x97 nuo Beobachter-Global pokalbio kanalo.*'

@@ -1,0 +1,1 @@
+b'Record: [ 10/08/19  19:39:19 ] - Server: Test - Action: Registration Confirmed - User: FaustRecht - Uerd ID: 566292177161027586 - Nickname: MurphysLawv'

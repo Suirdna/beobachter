@@ -1,0 +1,105 @@
+*{
+    font-family: Calibri;
+    font-weight: normal;
+}
+
+body{
+    background-color:#36393f;
+}
+
+header{
+    width:100%;
+    height:20em;
+}
+
+main{
+    width:100%;
+}
+
+table{
+    border: 2px solid #2f3136;
+    padding:5px;
+    border-radius:7px;
+}
+
+thead{
+        background-color:#2f3136;
+    color:#7289da;
+}
+
+tbody{
+    color:#c7d0b0;
+}
+
+tr{
+    font-weight: 100px;
+}
+
+th{
+    padding:10px;
+    border: 2px solid #3e4147;
+    border-radius:5px;
+}
+
+img{
+    margin-left:10px;
+}
+
+footer{
+    
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.wrapper{
+    width:80%;
+    margin:0px auto;
+}
+
+.control{
+    width:100%;
+    height:3em;
+}
+
+.logo{
+    width:100%;
+    height:13em;
+}
+
+.image{
+    width:249px;
+    height:238px;
+    background-image:url("/images/beobachter.png");
+    margin:0px auto;
+    margin-top:0px;
+}
+
+.join{
+    width:100px;
+    height:30px;
+    background-image:url("/images/discord.png");
+    margin-left:30px;
+    margin-top:30px;
+}
+
+.join:hover{
+    width:100px;
+    height:30px;
+    background-image:url("/images/discord_unter.png");
+    margin-left:30px;
+    margin-top:30px;
+}

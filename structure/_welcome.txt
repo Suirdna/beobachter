@@ -1,0 +1,86 @@
+[logo]
+*Dėkojame, kad užsiregistravote prie Beobachter statistikos ir analizavimo sistemos.*
+*Jūsų discordo kanalas yra užregistruotas Beobachter sistemoje, tačiau nėra tinkamai sukonfigūruotas. Tam, kad Beobachter botas galėtų teisingai veikti jūsų discordo kanale, būtina atlikti apačioje nurodytus veiksmus.*
+
+**Pastaba!** *Discordo kanalų Beobachter struktūros sukurtų skilčių ar rolių trynimas, pavadinimų keitimas gali neigiamai paveikti Beobachter botą!*
+*Apačioje aprašytus veikmus gali atlikti tik Discordo kanalo savininkas arba Beobachter boto savininkas.*
+
+----------------------------------------------------------------
+
+__**Rs-Justice boto pridėjimas**__
+
+**Instrukcija: ** *Pridėkite Rs-Justice botą paspausdami ant nuorodos ir patvirtinkite jo prisijungimą pasirinke savo discordo kanalą*.
+https://discordapp.com/oauth2/authorize?&client_id=349014426067927040&scope=bot&permissions=0
+
+----------------------------------------------------------------
+
+__**1. Įdiegimas**__ `.setup init`
+
+**Komanda: ** `.setup init`
+**Aprašymas: ** *Šios komandos pagalba, Beobachter botas sukurs jūsų discordo kanale reikalingą (struktūrą/roles) ir automatiškai sukonfigūruos botą tinkamui veikimui.*
+**Instrukcija: ** *Paspauskite ant bet kurios skilties jūsų discordo kanale ir parašykite komandą* `.setup init`.
+
+----------------------------------------------------------------
+
+__**2. Papildomos kanalo nuostatos**__ `.setup config`
+
+**Komanda: ** `.setup config`
+**Aprašymas: ** *Šios komandos pagalba, Beobachter botas parodys discordo kanalo konfigūracijos nuostatas, kurias galite sukonfigūruoti rankiniu būdu.*
+**Instrukcija: ** *Paspauskite ant bet kurios skilties jūsų discordo kanale ir parašykite komandą* `.setup config`.
+
+----------------------------------------------------------------
+
+__**3. Papildomų kanalo nuostatų konfigūracija**__ `.setup cfg` `[argumentas] ir [id]` arba `[emoji]`
+
+**Pastaba!** *Be papildomų kanalo nuostatų konfigūracijos, Beobachter botas vistiek atliks būtinas funkcijas!*
+**Komanda: ** `.setup cfg` `[argumentas] ir [id]` arba `[emoji]`
+**Aprašymas: ** *Komanda leidžianti rankiniu būdu sukonfigūruoti papildomas discordo kanalo nuostatas Beobachter sistemoje.*
+**Instrukcija: ** *Paspauskite ant bet kurios skilties jūsų discordo kanale ir parašykite komandą* `.setup cfg [argumentas] ir [id] arba [emoji]`.
+
+**Pavyzdys su** `id`:
+
+
+**Pavyzdys su** `emoji`: 
+
+----------------------------------------------------------------
+
+__**Argumentų paaiškinimas**__
+
+[argumentas] - Argumentus rasite apačioje ☟ arba kanalo papildomų konfigūracijų nuostatų langelyje parašydami komandą `.setup config`.
+[id] - Discordo kanalo skilties id. Pavyzdys: \#taisyklės ir jame esantys skaičiai yra id.
+[emoji] - Discordo kanalo emoji. Pavyzdys: \:attack:.
+
+[id] `kanal_besitzer_id` - Discordo kanalo savininkas.
+[id] `bot_id` - Beobachter botas.
+[id] `bot_administration_id` - Beobachter boto administratorius.
+[id] `discord_registration` - Discordo kanalo registracijos skiltis.
+[id] `discord_uberprufung` - Discordo kanalo check-rsn skiltis.
+[id] `discord_zahl` - Discordo kanalo uždarbio skiltis.
+[id] `discord_global` - Discordo kanalo globalus pokalbio skiltis.
+[id] `discord_beobachter` - Discordo kanalo Beobachter valdymo pulto skiltis.
+[id] `discord_moderation` - Discordo kanalo Boebachter moderacijos skiltis. `[Nenaudojama]`
+[id] `discord_beschreibung` - Discordo kanalo aprašymo skiltis.
+[id] `discord_regeln` - Discordo kanalo taisyklių skiltis.
+[id] `discord_ereignisse` - Discordo kanalo eventų skiltis.
+[id] `discord_random` - Discordo kanalo random žaidėjų pokalbių skiltis.
+[id] `discord_mitglied` - Discordo kanalo Beobachter narių pokalbių skiltis.
+[id] `discord_cox_beschreibung` - Discordo kanalo Cox aprašymo skiltis.
+[emoji]`emoji_olm` - Discordo kanalo olm emoji.
+[emoji]`emoji_attack` - Discordo kanalo attack emoji.
+[emoji]`emoji_strength` - Discordo kanalo strength emoji.
+[emoji]`emoji_defence` - Discordo kanalo defence emoji.
+[emoji]`emoji_magic` - Discordo kanalo magic emoji.
+[emoji]`emoji_range` - Discordo kanalo range emoji.
+[emoji]`emoji_prayer` - Discordo kanalo prayer emoji.
+[emoji]`emoji_herblore` - Discordo kanalo herblore emoji.
+[emoji]`emoji_farming` - Discordo kanalo farming emoji.
+[emoji]`emoji_gp` - Discordo kanalo gp emoji.
+
+----------------------------------------------------------------
+
+.
+
+**✙ Programuotojas:** *Andrius Lizunovas*.
+**✙ FBN:** *https://www.facebook.com/amiraarima.liz*.
+**✙ DCN:** *FaustRecht#5546*.
+

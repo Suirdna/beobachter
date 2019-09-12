@@ -1,0 +1,3 @@
+b'Record: [ 26/07/19  15:00:22 ] - Action: Joined - User: random - Uerd ID: 582600982916235290 - Created at: 2019-05-27 16:08:18.530000'
+b'Record: [ 15/08/19  12:37:03 ] - Action: Joined - User: oshelpVudiS - Uerd ID: 527067554070396940 - Created at: 2018-12-25 10:18:17.332000'
+b'Record: [ 19/08/19  16:17:38 ] - Action: Joined - User: Smilas - Uerd ID: 527067554070396940 - Created at: 2018-12-25 10:18:17.332000'

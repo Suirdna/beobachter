@@ -1,0 +1,4 @@
+b'Record: [ 17/08/19  13:29:59 ] - Action: Writte - User: <@!527067554070396940> - Content: .connect'
+b'Record: [ 17/08/19  13:30:15 ] - Action: Writte - User: <@599615116044009477> - Content: **Genetics** *<@!527067554070396940>, sveiki atvyk\xc4\x99 \xc4\xaf Genetics PvM grup\xc4\x99. Skiltyje <#612246443268505620> rasite informacij\xc4\x85, kiek, kas ir k\xc4\x85 gavo m\xc5\xabs\xc5\xb3 Genetics nariai God Wars Dungeon, Chambers of Xeric ar Theatre of Blood raido metu.*'
+b'Record: [ 17/08/19  13:30:29 ] - Action: Writte - User: <@!527067554070396940> - Content: .connect'
+b'Record: [ 17/08/19  13:31:08 ] - Action: Writte - User: <@!527067554070396940> - Content: Wei\xc3\x9f jemand, wo ist Faust?'

@@ -1,0 +1,8 @@
+b'Record: [ 29/07/19  15:44:29 ] - Action: Writte - User: <@566292177161027586> - Content: .check FaustRecht'
+b'Record: [ 29/07/19  16:19:24 ] - Action: Writte - User: <@566292177161027586> - Content: .exp'
+b'Record: [ 29/07/19  16:20:47 ] - Action: Writte - User: <@566292177161027586> - Content: .exp'
+b'Record: [ 29/07/19  16:20:49 ] - Action: Writte - User: <@566292177161027586> - Content: .exp'
+b'Record: [ 29/07/19  16:21:24 ] - Action: Writte - User: <@566292177161027586> - Content: .exp'
+b'Record: [ 29/07/19  16:22:17 ] - Action: Writte - User: <@566292177161027586> - Content: .exp'
+b'Record: [ 29/07/19  16:22:44 ] - Action: Writte - User: <@566292177161027586> - Content: .exp FaustRecht'
+b'Record: [ 29/07/19  16:23:01 ] - Action: Writte - User: <@566292177161027586> - Content: .exp FaustRecht'

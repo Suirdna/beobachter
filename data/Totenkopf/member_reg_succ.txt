@@ -1,0 +1,3 @@
+b'Record: [ 20/07/19  17:07:23 ] - Server: Totenkopf - Action: Registration Confirmed - User: Zimmer - Uerd ID: 527067554070396940 - Nickname: What'
+b'Record: [ 20/07/19  17:09:59 ] - Server: Totenkopf - Action: Registration Confirmed - User: Zimmer - Uerd ID: 527067554070396940 - Nickname: What'
+b'Record: [ 20/07/19  17:18:36 ] - Server: Totenkopf - Action: Registration Confirmed - User: Zimmer - Uerd ID: 527067554070396940 - Nickname: What'

@@ -1,0 +1,10 @@
+[LOGO]
+*Uždarbis skaičiuojamas skiltyje: <#594800209641472030>.*
+*Uždirbtų gp suma neraidinimo ar bossinimo metu, neįskaičiuojama į nario uždarbį.*
+*Gautas dropas nesu Beobachter nariais, įskaičiuojamas į nario uždarbį.*
+
+----------------------------------------------------------------
+*Paveiksliuke turi būti atvaizduota laikas ir data.*
+*Žaidėjas turi įrašyti visų dalyvavusių žaidėjų nickus.*
+*Žaidėjo FFA dropas neįskaičiuojamas į statistiką.*
+**Pastaba!** *Napaisant šių taisyklių, moderacija nepatvirtins žaidėjo dropo rezultatų.* *Taisyklingo dropo rezultato publikavimas apačioje.* **⤋**

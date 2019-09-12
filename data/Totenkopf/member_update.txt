@@ -1,0 +1,1 @@
+b'Record: [ 20/07/19  17:07:26 ] - Action: Update - Old Username: Zimmer - New Username: What'

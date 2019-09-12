@@ -1,0 +1,4 @@
+b'Record: [ 10/08/19  19:36:17 ] - Action: Writte - User: <@599615116044009477> - Content: **Test** *<@390992657125736451>, sveiki atvyk\xc4\x99 \xc4\xaf Test PvM grup\xc4\x99. Skiltyje <#609800808107868188> rasite informacij\xc4\x85, kiek, kas ir k\xc4\x85 gavo m\xc5\xabs\xc5\xb3 Test nariai God Wars Dungeon, Chambers of Xeric ar Theatre of Blood raido metu.*'
+b'Record: [ 10/08/19  19:39:20 ] - Action: Writte - User: <@599615116044009477> - Content: **Test** *<@566292177161027586>, sveiki atvyk\xc4\x99 \xc4\xaf Test PvM grup\xc4\x99. Skiltyje <#609800808107868188> rasite informacij\xc4\x85, kiek, kas ir k\xc4\x85 gavo m\xc5\xabs\xc5\xb3 Test nariai God Wars Dungeon, Chambers of Xeric ar Theatre of Blood raido metu.*'
+b'Record: [ 10/08/19  19:40:41 ] - Action: Writte - User: <@!566292177161027586> - Content: .setup config'
+b'Record: [ 10/08/19  19:40:42 ] - Action: Writte - User: <@599615116044009477> - Content: '

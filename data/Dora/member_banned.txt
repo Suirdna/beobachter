@@ -1,0 +1,4 @@
+b'Record: [ 15/08/19  12:35:42 ] - Action: Banned - User: oshelpVudis - Uerd ID: 527067554070396940 - Reason: U\xc5\xbedraustas nikas.'
+b'Record: [ 15/08/19  12:35:42 ] - Action: Banned - User: oshelpVudis - Uerd ID: 527067554070396940 - Reason: U\xc5\xbedraustas nikas.'
+b'Record: [ 15/08/19  12:37:03 ] - Action: Banned - User: oshelpVudiS - Uerd ID: 527067554070396940 - Reason: U\xc5\xbedraustas nikas.'
+b'Record: [ 15/08/19  12:37:03 ] - Action: Banned - User: oshelpVudiS - Uerd ID: 527067554070396940 - Reason: U\xc5\xbedraustas nikas.'

@@ -1,0 +1,3 @@
+b'Record: [ 10/08/19  19:31:03 ] - Action: Edit - Channel: <#609800812289327117> - User: <@599615116044009477> - Before:  - After: '
+b'Record: [ 10/08/19  19:39:23 ] - Action: Edit - Channel: <#609800808925757441> - User: <@599615116044009477> - Before:  - After: '
+b'Record: [ 10/08/19  19:40:42 ] - Action: Edit - Channel: <#609800811224236032> - User: <@599615116044009477> - Before:  - After: '

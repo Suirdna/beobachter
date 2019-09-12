@@ -1,0 +1,81 @@
+b"Record: [ 19/07/19  23:04:38 ] - Action: Upload - User: <@356475916668370947> - Content: [<Attachment id=601882119068713000 filename='unknown.png' url='https://cdn.discordapp.com/attachments/538718929564991510/601882119068713000/unknown.png'>]"
+b'Record: [ 19/07/19  23:04:39 ] - Action: Writte - User: <@356475916668370947> - Content: Idomi kate'
+b"Record: [ 20/07/19  14:46:21 ] - Action: Upload - User: <@156127585053573120> - Content: [<Attachment id=602119113824927764 filename='67426552_2372582272964321_5913260812209750016_n.png' url='https://cdn.discordapp.com/attachments/538718929564991510/602119113824927764/67426552_2372582272964321_5913260812209750016_n.png'>]"
+b'Record: [ 20/07/19  14:54:09 ] - Action: Writte - User: <@114774616525766660> - Content: <:GWseremePeepoHappy:402867832175460363>'
+b'Record: [ 20/07/19  19:00:06 ] - Action: Writte - User: <@!266324214250733568> - Content: <:cat:519647231515557888>'
+b"Record: [ 20/07/19  20:43:39 ] - Action: Upload - User: <@156127585053573120> - Content: [<Attachment id=602209029745541121 filename='65170778_10159199146186840_2567900782376517632_n.png' url='https://cdn.discordapp.com/attachments/538718929564991510/602209029745541121/65170778_10159199146186840_2567900782376517632_n.png'>]"
+b"Record: [ 21/07/19  11:58:30 ] - Action: Upload - User: <@156127585053573120> - Content: [<Attachment id=602439253368242176 filename='67411899_1149704018563227_7535824165861851136_n.png' url='https://cdn.discordapp.com/attachments/538718929564991510/602439253368242176/67411899_1149704018563227_7535824165861851136_n.png'>]"
+b"Record: [ 23/07/19  00:01:42 ] - Action: Upload - User: <@!418167767578181634> - Content: [<Attachment id=602983635158695947 filename='taj7wiomtub31.png' url='https://cdn.discordapp.com/attachments/538718929564991510/602983635158695947/taj7wiomtub31.png'>]"
+b'Record: [ 23/07/19  00:14:47 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/sv2yndE.gifv'
+b'Record: [ 23/07/19  00:36:33 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/wholesomeharpseal'
+b'Record: [ 23/07/19  15:00:27 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/activealienateddalmatian-cat'
+b'Record: [ 23/07/19  15:02:58 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/blankblissfulcrustacean-cat-gasping-omg'
+b'Record: [ 23/07/19  15:05:30 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/friendlyesteemedkentrosaurus-cat-chillin-looping-table'
+b"Record: [ 23/07/19  22:05:49 ] - Action: Upload - User: <@!418167767578181634> - Content: [<Attachment id=603316863253872641 filename='7lmn7ynoj2c31.png' url='https://cdn.discordapp.com/attachments/538718929564991510/603316863253872641/7lmn7ynoj2c31.png'>]"
+b'Record: [ 23/07/19  22:45:07 ] - Action: Writte - User: <@114774616525766660> - Content: https://twitter.com/rickyberwick/status/1152991779450511361'
+b"Record: [ 23/07/19  23:19:02 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=603335286679928855 filename='EAJpfeUXsAEKK0Q.png' url='https://cdn.discordapp.com/attachments/538718929564991510/603335286679928855/EAJpfeUXsAEKK0Q.png'>]"
+b'Record: [ 23/07/19  23:19:16 ] - Action: Writte - User: <@114774616525766660> - Content: same su meowing'
+b"Record: [ 24/07/19  01:14:13 ] - Action: Upload - User: <@!418167767578181634> - Content: [<Attachment id=603364272742858752 filename='dih21gxcg3c31.png' url='https://cdn.discordapp.com/attachments/538718929564991510/603364272742858752/dih21gxcg3c31.png'>]"
+b'Record: [ 28/07/19  11:31:18 ] - Action: Writte - User: <@114774616525766660> - Content: https://www.reddit.com/r/aww/comments/cbothv/a_rare_moment_caught_on_camera/'
+b'Record: [ 28/07/19  18:36:20 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/8pQtlg0.gifv'
+b'Record: [ 28/07/19  21:48:48 ] - Action: Writte - User: <@!566292177161027586> - Content: https://www.youtube.com/watch?v=5530I_pYjbo'
+b'Record: [ 28/07/19  21:49:04 ] - Action: Writte - User: <@!566292177161027586> - Content: https://www.youtube.com/watch?v=_1XWE2a6Wlo'
+b"Record: [ 28/07/19  22:21:52 ] - Action: Upload - User: <@!418167767578181634> - Content: [<Attachment id=605132846776057856 filename='fnj3yafdc2d31.png' url='https://cdn.discordapp.com/attachments/538718929564991510/605132846776057856/fnj3yafdc2d31.png'>]"
+b'Record: [ 28/07/19  22:21:58 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/lHe4QVb.gifv'
+b'Record: [ 29/07/19  15:31:02 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/2iCa473.gifv'
+b'Record: [ 29/07/19  15:35:06 ] - Action: Writte - User: <@!266324214250733568> - Content: kas per \xc5\xa1etonas'
+b"Record: [ 29/07/19  18:35:24 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=605438243898523658 filename='67268662_2345334122376442_4617342211183345664_n.png' url='https://cdn.discordapp.com/attachments/538718929564991510/605438243898523658/67268662_2345334122376442_4617342211183345664_n.png'>]"
+b"Record: [ 29/07/19  18:35:32 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=605438276748443649 filename='67793662_2286018698119241_1511959085262569472_o.png' url='https://cdn.discordapp.com/attachments/538718929564991510/605438276748443649/67793662_2286018698119241_1511959085262569472_o.png'>]"
+b'Record: [ 29/07/19  21:08:32 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/F6ktlT8.gifv'
+b'Record: [ 29/07/19  22:19:42 ] - Action: Writte - User: <@156127585053573120> - Content: <:FeelsWowMan:514918113494695946>'
+b'Record: [ 30/07/19  21:44:55 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/wealthybravebudgie'
+b'Record: [ 30/07/19  23:21:13 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/MzAKI4N.gifv'
+b'Record: [ 30/07/19  23:41:17 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/inb4SsT.gifv'
+b'Record: [ 31/07/19  00:02:06 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/18nauQl.gifv'
+b'Record: [ 31/07/19  03:58:14 ] - Action: Writte - User: <@!512240786427871252> - Content: https://cdn.discordapp.com/attachments/408484123494055937/605709553895735296/b3c1fd7c74e0c43236311cb83df62384.png'
+b'Record: [ 31/07/19  08:31:19 ] - Action: Writte - User: <@156127585053573120> - Content: <:cat:519647231515557888>'
+b"Record: [ 31/07/19  08:31:23 ] - Action: Upload - User: <@156127585053573120> - Content: [<Attachment id=606011014923943937 filename='67318239_3150642494960751_5881820852739112960_n.png' url='https://cdn.discordapp.com/attachments/538718929564991510/606011014923943937/67318239_3150642494960751_5881820852739112960_n.png'>]"
+b"Record: [ 31/07/19  18:15:05 ] - Action: Upload - User: <@356475916668370947> - Content: [<Attachment id=606157907108691981 filename='unknown.png' url='https://cdn.discordapp.com/attachments/538718929564991510/606157907108691981/unknown.png'>]"
+b'Record: [ 31/07/19  18:16:18 ] - Action: Writte - User: <@356475916668370947> - Content: https://www.facebook.com/funnypetslove/videos/943795692421826/UzpfSTEwMDAwMTgyNDM3MTAzMjoyNzEyNzQ2MzkyMTEwNzkx/'
+b'Record: [ 01/08/19  16:18:15 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/PhonyDefiantHamadryad'
+b'Record: [ 01/08/19  16:32:18 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/4reAQ1i.gifv'
+b'Record: [ 01/08/19  16:57:43 ] - Action: Writte - User: <@!418167767578181634> - Content: http://i.imgur.com/DZOMRJC.gifv'
+b'Record: [ 01/08/19  19:02:21 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/v40wB04.gifv'
+b'Record: [ 01/08/19  19:25:32 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/PointlessThreadbareGoldenretriever'
+b'Record: [ 01/08/19  23:38:54 ] - Action: Writte - User: <@!418167767578181634> - Content: http://gfycat.com/bitesizedsnoopybighorn'
+b'Record: [ 01/08/19  23:41:29 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/LK5qgLN.gifv'
+b'Record: [ 02/08/19  00:24:06 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/99If3gg.gifv'
+b'Record: [ 02/08/19  00:54:00 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/imTrJ0r.gifv'
+b'Record: [ 02/08/19  00:58:42 ] - Action: Writte - User: <@!418167767578181634> - Content: http://i.imgur.com/0xEilxR.gifv'
+b'Record: [ 03/08/19  00:47:44 ] - Action: Writte - User: <@!418167767578181634> - Content: http://gfycat.com/flamboyantgenuinefish'
+b'Record: [ 03/08/19  00:47:58 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/ContentHandmadeDuck'
+b'Record: [ 03/08/19  00:49:09 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/iiCLbT2.gif'
+b'Record: [ 03/08/19  00:49:21 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/8fBVK3O.gifv'
+b'Record: [ 03/08/19  00:50:44 ] - Action: Writte - User: <@!418167767578181634> - Content: http://gfycat.com/infantilecandiderin'
+b'Record: [ 03/08/19  01:11:55 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/Emle6P5.gifv'
+b'Record: [ 05/08/19  11:57:18 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/slowilliterateanophelesmosquito'
+b'Record: [ 05/08/19  12:03:19 ] - Action: Writte - User: <@114774616525766660> - Content: https://tenor.com/view/kitty-highkitten-mdmacat-cat-happykitty-gif-6198981'
+b"Record: [ 05/08/19  12:42:40 ] - Action: Upload - User: <@!418167767578181634> - Content: [<Attachment id=607886184806350896 filename='1564996603163.png' url='https://cdn.discordapp.com/attachments/538718929564991510/607886184806350896/1564996603163.png'>]"
+b'Record: [ 05/08/19  13:10:48 ] - Action: Writte - User: <@114774616525766660> - Content: https://tenor.com/view/lion-cat-confident-gif-5674667'
+b'Record: [ 06/08/19  01:37:02 ] - Action: Writte - User: <@!512240786427871252> - Content: https://img-9gag-fun.9cache.com/photo/aj5YYVq_460svvp9.webm'
+b"Record: [ 06/08/19  01:37:02 ] - Action: Upload - User: <@329668530926780426> - Content: [<Attachment id=608081066078765070 filename='512240786427871252.png' url='https://cdn.discordapp.com/attachments/538718929564991510/608081066078765070/512240786427871252.png'>]"
+b'Record: [ 09/08/19  01:09:25 ] - Action: Writte - User: <@!418167767578181634> - Content: nebuk pora day ir nks nekels nk'
+b'Record: [ 09/08/19  01:10:47 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/tantestyantarcticfurseal-dog'
+b'Record: [ 09/08/19  05:39:32 ] - Action: Writte - User: <@114774616525766660> - Content: https://twitter.com/LinusTech/status/1159572374846488576?s=19'
+b'Record: [ 09/08/19  17:57:54 ] - Action: Writte - User: <@114774616525766660> - Content: https://www.imdb.com/title/tt5697572/'
+b"Record: [ 10/08/19  12:56:02 ] - Action: Upload - User: <@114774616525766660> - Content: [<Attachment id=609701489237164032 filename='68524330_2487247494630467_5686334836441088_n.png' url='https://cdn.discordapp.com/attachments/538718929564991510/609701489237164032/68524330_2487247494630467_5686334836441088_n.png'>]"
+b'Record: [ 10/08/19  16:07:41 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.imgur.com/4e3rVaB.gifv'
+b'Record: [ 10/08/19  17:41:05 ] - Action: Writte - User: <@!253491130069549056> - Content: https://www.facebook.com/transporteris.jav/posts/808100999585918'
+b'Record: [ 12/08/19  08:48:25 ] - Action: Writte - User: <@!512240786427871252> - Content: https://external-preview.redd.it/rS1QMR9RKL8GC8zOC0JsoGLIdSq1qWCRO9aYEutp7ro.gif?width=640&format=mp4&s=f6190cc749a92c9f60032ccde004457e3d0b03dd'
+b'Record: [ 12/08/19  08:49:26 ] - Action: Writte - User: <@!512240786427871252> - Content: https://external-preview.redd.it/rS1QMR9RKL8GC8zOC0JsoGLIdSq1qWCRO9aYEutp7ro.gif?width=640&format=mp4&s=f6190cc749a92c9f60032ccde004457e3d0b03dd'
+b"Record: [ 12/08/19  08:53:52 ] - Action: Upload - User: <@!512240786427871252> - Content: [<Attachment id=610365328756834315 filename='crj92nbwkvf31.png' url='https://cdn.discordapp.com/attachments/538718929564991510/610365328756834315/crj92nbwkvf31.png'>]"
+b'Record: [ 12/08/19  20:15:05 ] - Action: Writte - User: <@!418167767578181634> - Content: https://old.reddit.com/r/combinedgifs/comments/cfwtkc/give_him_the_tuna/'
+b'Record: [ 12/08/19  20:15:16 ] - Action: Writte - User: <@!418167767578181634> - Content: https://i.redd.it/ak60mx068mb31.gif'
+b'Record: [ 12/08/19  21:25:04 ] - Action: Writte - User: <@!114774616525766660> - Content: <:GWseremePeepoHappy:402867832175460363>'
+b'Record: [ 13/08/19  23:33:12 ] - Action: Writte - User: <@!418167767578181634> - Content: https://gfycat.com/hollowdigitalcorydorascatfish'
+b'Record: [ 14/08/19  20:48:35 ] - Action: Writte - User: <@!418167767578181634> - Content: <:MonkaChrist:514912978634539008>'
+b'Record: [ 15/08/19  20:47:15 ] - Action: Writte - User: <@!114774616525766660> - Content: <:GWslippyPeepoW:407618454061842433>'
+b"Record: [ 17/08/19  15:03:38 ] - Action: Upload - User: <@!114774616525766660> - Content: [<Attachment id=612270318479998976 filename='68757160_2153196468142865_4534838298903838720_n.png' url='https://cdn.discordapp.com/attachments/538718929564991510/612270318479998976/68757160_2153196468142865_4534838298903838720_n.png'>]"
+b"Record: [ 17/08/19  15:03:39 ] - Action: Upload - User: <@329668530926780426> - Content: [<Attachment id=612270320966959105 filename='114774616525766660.png' url='https://cdn.discordapp.com/attachments/538718929564991510/612270320966959105/114774616525766660.png'>]"
+b'Record: [ 17/08/19  15:34:31 ] - Action: Writte - User: <@!253491130069549056> - Content: davai +1 cox kas nors osrslietuva cc'
+b"Record: [ 18/08/19  17:04:33 ] - Action: Upload - User: <@!114774616525766660> - Content: [<Attachment id=612663132984442901 filename='68924554_2335218663266193_8839611224283938816_o.png' url='https://cdn.discordapp.com/attachments/538718929564991510/612663132984442901/68924554_2335218663266193_8839611224283938816_o.png'>]"

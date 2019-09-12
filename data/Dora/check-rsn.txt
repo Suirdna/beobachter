@@ -1,0 +1,6 @@
+b'Record: [ 26/07/19  15:00:33 ] - Action: Writte - User: <@604292666687094785> - Content: !rw random'
+b'Record: [ 26/07/19  15:00:33 ] - Action: Writte - User: <@604292666687094785> - Content: '
+b'Record: [ 01/08/19  18:12:47 ] - Action: Writte - User: <@604292666687094785> - Content: !rw lol'
+b'Record: [ 01/08/19  18:12:48 ] - Action: Writte - User: <@604292666687094785> - Content: '
+b'Record: [ 10/08/19  09:09:24 ] - Action: Writte - User: <@604292666687094785> - Content: !rw lol'
+b'Record: [ 10/08/19  09:09:25 ] - Action: Writte - User: <@604292666687094785> - Content: '

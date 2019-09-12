@@ -1,0 +1,6 @@
+b'Record: [ 29/07/19  15:44:29 ] - Action: Writte - User: <@599615116044009477> - Content: !rw FaustRecht'
+b'Record: [ 29/07/19  15:44:31 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 29/07/19  16:23:02 ] - Action: Writte - User: <@599615116044009477> - Content: !rw FaustRecht'
+b'Record: [ 29/07/19  16:23:03 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 17/08/19  13:21:11 ] - Action: Writte - User: <@599615116044009477> - Content: !rw solder'
+b'Record: [ 17/08/19  13:21:13 ] - Action: Writte - User: <@599615116044009477> - Content: '

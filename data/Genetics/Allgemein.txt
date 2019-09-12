@@ -1,0 +1,2 @@
+b'Record: [ 17/08/19  13:28:37 ] - Action: Writte - User: <@599615116044009477> - Content: '
+b'Record: [ 17/08/19  13:28:44 ] - Action: Writte - User: <@!527067554070396940> - Content: .setup init'

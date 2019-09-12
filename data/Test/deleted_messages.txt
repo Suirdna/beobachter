@@ -1,0 +1,6 @@
+b'Record: [ 10/08/19  19:31:03 ] - Action: Delete - Channel: <#609796918255681551> - User: <@390992657125736451> - Content: .setup init'
+b'Record: [ 10/08/19  19:38:23 ] - Action: Delete - Channel: <#609800807826587649> - User: <@566292177161027586> - Content: .rsn FaustRecht'
+b'Record: [ 10/08/19  19:38:47 ] - Action: Delete - Channel: <#609800807826587649> - User: <@566292177161027586> - Content: .rsn MurphyLawv'
+b'Record: [ 10/08/19  19:39:02 ] - Action: Delete - Channel: <#609800807826587649> - User: <@566292177161027586> - Content: .rsn MurphsLawv'
+b'Record: [ 10/08/19  19:39:24 ] - Action: Delete - Channel: <#609800807826587649> - User: <@!566292177161027586> - Content: .rsn MurphysLawv'
+b'Record: [ 10/08/19  19:40:42 ] - Action: Delete - Channel: <#609800811224236032> - User: <@!566292177161027586> - Content: .setup config'
